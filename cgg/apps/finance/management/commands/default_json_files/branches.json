@@ -1,0 +1,17 @@
+[
+  {
+    "branch_code": "tehran",
+    "branch_name": "Tehran",
+    "destination_names": [
+      "Tehran"
+    ]
+  },
+  {
+    "branch_code": "country",
+    "branch_name": "Country"
+  },
+  {
+    "branch_code": "emergency",
+    "branch_name": "Emergency"
+  }
+]

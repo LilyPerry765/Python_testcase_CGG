@@ -1,0 +1,40 @@
+darkube_build_cgg-app_nexfon-staging:
+  image: hamravesh.hamdocker.ir/public/darkube-cli:v1.1
+  only:
+    refs:
+    - main
+  script:
+  - export IMAGE="registry.hamdocker.ir/nexfon/cgg-app"
+  - 'darkube build --push -t $IMAGE:$CI_COMMIT_SHORT_SHA -t $IMAGE:$CI_COMMIT_REF_SLUG  --workdir
+    . --file ./Dockerfile --build-context . '
+  stage: build
+darkube_build_cgg-celery-worker_nexfon-staging:
+  image: hamravesh.hamdocker.ir/public/darkube-cli:v1.1
+  only:
+    refs:
+    - main
+  script:
+  - export IMAGE="registry.hamdocker.ir/nexfon/cgg-celery-worker"
+  - 'darkube build --push -t $IMAGE:$CI_COMMIT_SHORT_SHA -t $IMAGE:$CI_COMMIT_REF_SLUG  --workdir
+    . --file ./DockerfileCelery --build-context . '
+  stage: build
+darkube_deploy_cgg-app_nexfon-staging:
+  image: hamravesh.hamdocker.ir/public/darkube-cli:v1.1
+  only:
+    refs:
+    - main
+  script:
+  - darkube deploy --ref main --token ${DARKUBE_cgg_app_nexfon_staging_DEPLOY_TOKEN}
+    --app-id ${DARKUBE_cgg_app_nexfon_staging_APP_ID}  --image-tag "${CI_COMMIT_SHORT_SHA}"
+    --job-id "${CI_JOB_ID}" --stateless-app true
+  stage: deploy
+darkube_deploy_cgg-celery-worker_nexfon-staging:
+  image: hamravesh.hamdocker.ir/public/darkube-cli:v1.1
+  only:
+    refs:
+    - main
+  script:
+  - darkube deploy --ref main --token ${DARKUBE_cgg_celery_worker_nexfon_staging_DEPLOY_TOKEN}
+    --app-id ${DARKUBE_cgg_celery_worker_nexfon_staging_APP_ID}  --image-tag "${CI_COMMIT_SHORT_SHA}"
+    --job-id "${CI_JOB_ID}" --stateless-app true
+  stage: deploy

@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+Django = "==3.1.*"
+djangorestframework = "==3.12.*"
+django-filter = "==2.4.*"
+django-admin-rangefilter = "==0.6.*"
+requests = "==2.24.*"
+redis = "==3.5.*"
+django-redis = "==4.12.*"
+celery = "==5.0.*"
+psycopg2-binary = "==2.8.*"
+djangorestframework-jwt = "==1.11.*"
+uuid = "==1.*"
+jdatetime = "==3.6.*"
+uwsgi = "==2.0.*"
+xlrd = "==1.2.*"
+django-health-check = "==3.14.*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

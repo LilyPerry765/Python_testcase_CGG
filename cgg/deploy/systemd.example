@@ -1,0 +1,17 @@
+[Unit]
+Description=Django Service
+After=network.target
+
+[Service]
+Type=simple
+User=root
+EnvironmentFile=/path/to/cg-gateway/cgg/settings/local.env
+ExecStart=/path/to/virtualenvs/cg-gateway/bin/uwsgi --ini /path/to/cg-gateway/cgrates.ini
+StandardOutput=syslog
+StandardError=syslog
+SyslogIdentifier=djangologger
+Restart=on-abort
+
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,4346 @@
+{
+  "rates": [
+    {
+      "id": "free",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 0,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "0s"
+        }
+      ]
+    },
+    {
+      "id": "45 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 45,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        }
+      ]
+    },
+    {
+      "id": "100 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0.0,
+          "rate": 100,
+          "rate_unit": "60s",
+          "rate_increment": "30s",
+          "group_interval_start": "0s"
+        }
+      ]
+    },
+    {
+      "id": "100 rial in seconds",
+      "rate_slots": [
+        {
+          "connect_fee": 0.0,
+          "rate": 100,
+          "rate_unit": "60s",
+          "rate_increment": "30s",
+          "group_interval_start": "0s"
+        }
+      ]
+    },
+    {
+      "id": "330 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0.0,
+          "rate": 330,
+          "rate_unit": "60s",
+          "rate_increment": "30s",
+          "group_interval_start": "0s"
+        }
+      ]
+    },
+    {
+      "id": "330 rial in seconds",
+      "rate_slots": [
+        {
+          "connect_fee": 0.0,
+          "rate": 330,
+          "rate_unit": "60s",
+          "rate_increment": "30s",
+          "group_interval_start": "0s"
+        }
+      ]
+    },
+    {
+      "id": "625 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 625,
+          "rate_unit": "60s",
+          "rate_increment": "30s",
+          "group_interval_start": "0s"
+        }
+      ]
+    },
+    {
+      "id": "625 rial in seconds",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 625,
+          "rate_unit": "60s",
+          "rate_increment": "30s",
+          "group_interval_start": "0s"
+        }
+      ]
+    },
+    {
+      "id": "700 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 700,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 700,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "1000 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 1000,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 1000,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "1500 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 1500,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 1500,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "2500 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 2500,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 2500,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "3500 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 3500,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 3500,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "5500 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 5500,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 5500,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "7000 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 7000,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 7000,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "9000 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 9000,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 9000,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "10000 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 10000,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 10000,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "15000 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 15000,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 15000,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "20000 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 20000,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 20000,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "25000 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 25000,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 25000,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "30000 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 30000,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 30000,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "40000 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 40000,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 40000,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "60000 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 60000,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 60000,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    },
+    {
+      "id": "100000 rial",
+      "rate_slots": [
+        {
+          "connect_fee": 0,
+          "rate": 100000,
+          "rate_unit": "60s",
+          "rate_increment": "60s",
+          "group_interval_start": "0s"
+        },
+        {
+          "connect_fee": 0.0,
+          "rate": 100000,
+          "rate_unit": "60s",
+          "rate_increment": "1s",
+          "group_interval_start": "60s"
+        }
+      ]
+    }
+  ],
+  "destination_rates": [
+    {
+      "id": "international",
+      "destination_rates": [
+        {
+          "destination_id": "DST_MobileInternational_France",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_HongKong",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Italy",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Luxembourg",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Mexico",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Norway",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Poland",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Spain",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Switzerland",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Venezuela",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Denmark",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Germany",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Ireland",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Romania",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Sweden",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_India",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Malta",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Slovakia",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_UnitedKingdom",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Thailand",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Malaysia",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Chile",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Austria",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_BruneiDarussalam",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_China",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Hungary",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Martinique",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Mongolia",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Singapore",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_SouthKorea",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Guadeloupe",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Andorra",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Bangladesh",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Brazil",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Colombia",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_CostaRica",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Cyprus",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_CzechRepublic",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Japan",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Paraguay",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Portugal",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_SouthAfrica",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Taiwan",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Uruguay",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Argentina",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Estonia",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Iceland",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Gibraltar",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_FrenchGuiana",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Anguilla",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Bulgaria",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Cambodia",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Greece",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Namibia",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Slovenia",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Australia",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Turkey",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_FaroeIslands",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Bhutan",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Croatia",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Indonesia",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Laos",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Macau",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Monaco",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Pakistan",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Vietnam",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Kazakhstan",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Algeria",
+          "rate_id": "RT_10000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Mozambique",
+          "rate_id": "RT_10000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Bahrain",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Belgium",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Bolivia",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Botswana",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Egypt",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Kuwait",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Lebanon",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Mauritius",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Nepal",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_NewZealand",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Nigeria",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Oman",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Peru",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Philippines",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_DominicanRepublic",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_SaudiArabia",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Turkmenistan",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Zimbabwe",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Reunion",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Ecuador",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Honduras",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Iraq",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Kenya",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Kyrgyzstan",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Macedonia",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_SyrianArabRepublic",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Ukraine",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Uzbekistan",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Yemen",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Cameroon",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Guatemala",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Malawi",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_SierraLeone",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Uganda",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Finland",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Samoa",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Guinea",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Chad",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_CookIslands",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Cuba",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Kiribati",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Madagascar",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Mauritania",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_PapuaNewGuinea",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Seychelles",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Rwanda",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Senegal",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_SouthSudan",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Tanzania",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Togo",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Vanuatu",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Latvia",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Belarus",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Burundi",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Comoros",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_RepublicOfTheCongo",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_DemocraticRepublicOfTheCongo",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Djibouti",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_EquatorialGuinea",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Gabon",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Gambia",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_GuineaBissau",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Liberia",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Nicaragua",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Zambia",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Lesotho",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Bahamas",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Benin",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Eritrea",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Fiji",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_FrenchPolynesia",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Ghana",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Guyana",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_IvoryCoast",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Libya",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Liechtenstein",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Moldova",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Morocco",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Niger",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_SolomonIslands",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Tonga",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Tunisia",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_SanMarino",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Afghanistan",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Albania",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_AntiguaAndBarbuda",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Armenia",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_BosniaAndHerzegovina",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_ElSalvador",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Ethiopia",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Georgia",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Grenada",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Haiti",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Jordan",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Mali",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Montenegro",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Netherlands",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_NewCaledonia",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Suriname",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_RussianFederation",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Palestine",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Qatar",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Serbia",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_SriLanka",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Sudan",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Tajikistan",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_UnitedArabEmirates",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Azerbaijan",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Belize",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_BurkinaFaso",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Dominica",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_Panama",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileInternational_CapeVerde",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_France",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_HongKong",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Italy",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Luxembourg",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Mexico",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Norway",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Poland",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Spain",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Switzerland",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_UnitedStates",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Venezuela",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Denmark",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Germany",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Ireland",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Romania",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Sweden",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_India",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Malta",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Slovakia",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_UnitedKingdom",
+          "rate_id": "RT_2500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_VirginIslands",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Thailand",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Malaysia",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Chile",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Austria",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_BruneiDarussalam",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_China",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Hungary",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Martinique",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Mongolia",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Singapore",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_SouthKorea",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Guadeloupe",
+          "rate_id": "RT_3500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Andorra",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Bangladesh",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Brazil",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Colombia",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_CostaRica",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Cyprus",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_CzechRepublic",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Japan",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Paraguay",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Portugal",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_SouthAfrica",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Taiwan",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Uruguay",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Argentina",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Estonia",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Iceland",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Gibraltar",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_FrenchGuiana",
+          "rate_id": "RT_5500Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Anguilla",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Bulgaria",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Cambodia",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Greece",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Namibia",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Slovenia",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Australia",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Turkey",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_FaroeIslands",
+          "rate_id": "RT_7000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Bhutan",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_CaymanIslands",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Croatia",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Indonesia",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Laos",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Macau",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Monaco",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Pakistan",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Vietnam",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_AmericanSamoa",
+          "rate_id": "RT_10000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Swaziland",
+          "rate_id": "RT_10000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Algeria",
+          "rate_id": "RT_10000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Mozambique",
+          "rate_id": "RT_10000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Alaska",
+          "rate_id": "RT_10000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Aruba",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Bahrain",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Belgium",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Bolivia",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Botswana",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Egypt",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Kuwait",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Lebanon",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Mauritius",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Nepal",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_NetherlandsAntilles",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_NewZealand",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Nigeria",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Oman",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Peru",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Philippines",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_DominicanRepublic",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_SintMaarten",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_TrinidadAndTobago",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_SaudiArabia",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_SaintLucia",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Turkmenistan",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_TurksAndCaicosIslands",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Zimbabwe",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Reunion",
+          "rate_id": "RT_15000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Ecuador",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Honduras",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Iraq",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Kenya",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Kyrgyzstan",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Macedonia",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Montserrat",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_SaintKittsAndNevis",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_SyrianArabRepublic",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Ukraine",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Uzbekistan",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Yemen",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Cameroon",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Guatemala",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Bermuda",
+          "rate_id": "RT_20000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Malawi",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_SaintVincentAndTheGrenadines",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_SierraLeone",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Somalia",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Uganda",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Finland",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Samoa",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Guinea",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Chad",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_CookIslands",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Cuba",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_NorthernMarianaIslands",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Kiribati",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Madagascar",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Mauritania",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_PapuaNewGuinea",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_StHelena",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Seychelles",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Rwanda",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Senegal",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_SouthSudan",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Tanzania",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Togo",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Vanuatu",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Latvia",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Belarus",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Burundi",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Comoros",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_RepublicOfTheCongo",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_DemocraticRepublicOfTheCongo",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Djibouti",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_EquatorialGuinea",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Gabon",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Gambia",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_GuineaBissau",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Liberia",
+          "rate_id": "RT_60000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Nicaragua",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Zambia",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Lesotho",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_BritishVirginIslands",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Bahamas",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Benin",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Eritrea",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Fiji",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_FrenchPolynesia",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Ghana",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Greenland",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Guyana",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_IvoryCoast",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Libya",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Liechtenstein",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Moldova",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Morocco",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Niger",
+          "rate_id": "RT_40000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_SolomonIslands",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Tonga",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Tunisia",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_CentralAfricanRepublic",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_SanMarino",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_WallisAndFutunaIslands",
+          "rate_id": "RT_100000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Afghanistan",
+          "rate_id": "RT_9000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Albania",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_AntiguaAndBarbuda",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Armenia",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_BosniaAndHerzegovina",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_ElSalvador",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Ethiopia",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Georgia",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Grenada",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Haiti",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Jordan",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Mali",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Montenegro",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Netherlands",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_NewCaledonia",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Suriname",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_RussianFederation",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Palau",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Palestine",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Qatar",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_SaintPierreAndMiquelon",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Serbia",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_SriLanka",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Sudan",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Tajikistan",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_UnitedArabEmirates",
+          "rate_id": "RT_25000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Azerbaijan",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Belize",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_BurkinaFaso",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Dominica",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Jamaica",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Panama",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_Barbados",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_CapeVerde",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineInternational_MarshallIslands",
+          "rate_id": "RT_30000Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        }
+      ]
+    },
+    {
+      "id": "emergency",
+      "destination_rates": [
+        {
+          "destination_id": "DST_LandlineNational_Emergency",
+          "rate_id": "RT_Free",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        }
+      ]
+    },
+    {
+      "id": "default",
+      "destination_rates": [
+        {
+          "destination_id": "DST_LandlineNational_Corporate",
+          "rate_id": "RT_Free",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Irancell",
+          "rate_id": "RT_625Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Shatel",
+          "rate_id": "RT_625Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Lotustel",
+          "rate_id": "RT_625Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_ArianTel",
+          "rate_id": "RT_625Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_KishTci",
+          "rate_id": "RT_625Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Mci",
+          "rate_id": "RT_625Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Mtce",
+          "rate_id": "RT_625Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Rightel",
+          "rate_id": "RT_625Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Samantel",
+          "rate_id": "RT_625Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Taliya",
+          "rate_id": "RT_625Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Tehran",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_AzarbayjanSharghi",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_AzarbayjanGharbi",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Ilam",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Ardebil",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Isfahan",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Booshehr",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_ChaarmahaalBakhtiari",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_KhorasanRazavi",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_KhorasanJonobi",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_KhorasanShomali",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Khozestan",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Zanjan",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Semnaan",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_SistanBalochestan",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Fars",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Alborz",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Ghom",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Ghazvin",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Kordestan",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Kermaan",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_KermaanShaah",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_KohgilooyeBoyrahmad",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Golestan",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Gilan",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Lorestaan",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Mazandaran",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Marakazi",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Hormozgaan",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Hamedaan",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Yazd",
+          "rate_id": "RT_330Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "*any",
+          "rate_id": "RT_Free",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        }
+      ]
+    },
+    {
+      "id": "country",
+      "destination_rates": [
+        {
+          "destination_id": "DST_LandlineNational_Corporate",
+          "rate_id": "RT_Free",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Irancell",
+          "rate_id": "RT_625RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Shatel",
+          "rate_id": "RT_625RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Lotustel",
+          "rate_id": "RT_625RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_ArianTel",
+          "rate_id": "RT_625RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_KishTci",
+          "rate_id": "RT_625RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Mci",
+          "rate_id": "RT_625RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Mtce",
+          "rate_id": "RT_625RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Rightel",
+          "rate_id": "RT_625RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Samantel",
+          "rate_id": "RT_625RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_MobileNational_Taliya",
+          "rate_id": "RT_625RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Tehran",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_AzarbayjanSharghi",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_AzarbayjanGharbi",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Ilam",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Ardebil",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Isfahan",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Booshehr",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_ChaarmahaalBakhtiari",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_KhorasanRazavi",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_KhorasanJonobi",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_KhorasanShomali",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Khozestan",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Zanjan",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Semnaan",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_SistanBalochestan",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Fars",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Alborz",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Ghom",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Ghazvin",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Kordestan",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Kermaan",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_KermaanShaah",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_KohgilooyeBoyrahmad",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Golestan",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Gilan",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Lorestaan",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Mazandaran",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Marakazi",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Hormozgaan",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Hamedaan",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "DST_LandlineNational_Yazd",
+          "rate_id": "RT_100RialInSeconds",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        },
+        {
+          "destination_id": "*any",
+          "rate_id": "RT_Free",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        }
+      ]
+    },
+    {
+      "id": "tehran",
+      "destination_rates": [
+        {
+          "destination_id": "DST_LandlineNational_Tehran",
+          "rate_id": "RT_45Rial",
+          "rounding_method": "*up",
+          "rounding_decimals": 4,
+          "max_cost": 0,
+          "max_cost_strategy": ""
+        }
+      ]
+    }
+  ],
+  "rating_plans": [
+    {
+      "id": "emergency",
+      "rating_plan_bindings": [
+        {
+          "destination_rates_id": "DR_Emergency",
+          "timing_id": "*any",
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "id": "default",
+      "rating_plan_bindings": [
+        {
+          "destination_rates_id": "DR_Default",
+          "timing_id": "*any",
+          "weight": 10
+        },
+        {
+          "destination_rates_id": "DR_International",
+          "timing_id": "*any",
+          "weight": 10
+        }
+      ]
+    },
+    {
+      "id": "country",
+      "rating_plan_bindings": [
+        {
+          "destination_rates_id": "DR_Country",
+          "timing_id": "*any",
+          "weight": 10
+        },
+        {
+          "destination_rates_id": "DR_International",
+          "timing_id": "*any",
+          "weight": 10
+        }
+      ]
+    }
+  ],
+  "rating_profiles": [
+    {
+      "category": "BR_Emergency",
+      "subject": "*any",
+      "rating_plan_activations": [
+        {
+          "activation_time": "2019-10-10T00:00:00Z",
+          "rating_plan_id": "RP_Emergency",
+          "fallback_subjects": ""
+        }
+      ]
+    },
+    {
+      "category": "BR_Default",
+      "subject": "*any",
+      "rating_plan_activations": [
+        {
+          "activation_time": "2019-10-10T00:00:00Z",
+          "rating_plan_id": "RP_Default",
+          "fallback_subjects": ""
+        }
+      ]
+    },
+    {
+      "category": "BR_Country",
+      "subject": "*any",
+      "rating_plan_activations": [
+        {
+          "activation_time": "2019-10-10T00:00:00Z",
+          "rating_plan_id": "RP_Country",
+          "fallback_subjects": ""
+        }
+      ]
+    }
+  ],
+  "default_operator": {
+    "code": "default",
+    "prefixes": [
+      "+"
+    ]
+  }
+}

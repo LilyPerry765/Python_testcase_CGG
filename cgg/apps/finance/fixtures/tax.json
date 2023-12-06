@@ -1,0 +1,10 @@
+[
+  {
+    "model": "finance.tax",
+    "pk": "f0a9b279-35f1-4be5-a8a2-bdece949e697",
+    "fields": {
+      "country_code": "IRN",
+      "tax_percent": 9
+    }
+  }
+]

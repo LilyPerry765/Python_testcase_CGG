@@ -1,0 +1,7773 @@
+[
+  {
+    "prefix": "+98901",
+    "name": "Irancell",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98902",
+    "name": "Irancell",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98903",
+    "name": "Irancell",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98904",
+    "name": "Irancell",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98905",
+    "name": "Irancell",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98941",
+    "name": "Irancell",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98930",
+    "name": "Irancell",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98933",
+    "name": "Irancell",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98935",
+    "name": "Irancell",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98936",
+    "name": "Irancell",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98937",
+    "name": "Irancell",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98938",
+    "name": "Irancell",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98939",
+    "name": "Irancell",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+9891",
+    "name": "Mci",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98990",
+    "name": "Mci",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98991",
+    "name": "Mci",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98992",
+    "name": "Mci",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98993",
+    "name": "Mci",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98994",
+    "name": "Mci",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98920",
+    "name": "Rightel",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98921",
+    "name": "Rightel",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98922",
+    "name": "Rightel",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98931",
+    "name": "Mtce",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98932",
+    "name": "Taliya",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+98934",
+    "name": "Kish Tci",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+989999",
+    "name": "Samantel",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+989998",
+    "name": "Arian Tel",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+989990",
+    "name": "Lotustel",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+9899810",
+    "name": "Shatel",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+9899811",
+    "name": "Shatel",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+9899812",
+    "name": "Shatel",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+9899813",
+    "name": "Shatel",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+9899814",
+    "name": "Shatel",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+9899815",
+    "name": "Shatel",
+    "country_code": "ir",
+    "code": "mobile_national"
+  },
+  {
+    "prefix": "+9821",
+    "name": "Tehran",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9841",
+    "name": "Azarbayjan Sharghi",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9844",
+    "name": "Azarbayjan Gharbi",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9884",
+    "name": "Ilam",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9845",
+    "name": "Ardebil",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9831",
+    "name": "Isfahan",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9877",
+    "name": "Booshehr",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9838",
+    "name": "Chaarmahaal Bakhtiari",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9851",
+    "name": "Khorasan Razavi",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9856",
+    "name": "Khorasan Jonobi",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9858",
+    "name": "Khorasan Shomali",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9861",
+    "name": "Khozestan",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9824",
+    "name": "Zanjan",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9823",
+    "name": "Semnaan",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9854",
+    "name": "Sistan Balochestan",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9871",
+    "name": "Fars",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9826",
+    "name": "Alborz",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9825",
+    "name": "Ghom",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9828",
+    "name": "Ghazvin",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9887",
+    "name": "Kordestan",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9834",
+    "name": "Kermaan",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9883",
+    "name": "Kermaan Shaah",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9874",
+    "name": "Kohgilooye Boyrahmad",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9817",
+    "name": "Golestan",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9813",
+    "name": "Gilan",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9866",
+    "name": "Lorestaan",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9811",
+    "name": "Mazandaran",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9886",
+    "name": "Marakazi",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9876",
+    "name": "Hormozgaan",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9881",
+    "name": "Hamedaan",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+9835",
+    "name": "Yazd",
+    "country_code": "ir",
+    "code": "landline_national"
+  },
+  {
+    "prefix": "+33",
+    "name": "France",
+    "country_code": "fr",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+852",
+    "name": "Hong Kong",
+    "country_code": "hk",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+39",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+352",
+    "name": "Luxembourg",
+    "country_code": "lu",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+52",
+    "name": "Mexico",
+    "country_code": "mx",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+47",
+    "name": "Norway",
+    "country_code": "no",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+48",
+    "name": "Poland",
+    "country_code": "pl",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+34",
+    "name": "Spain",
+    "country_code": "es",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+41",
+    "name": "Switzerland",
+    "country_code": "sz",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1758",
+    "name": "Saint Lucia",
+    "country_code": "lc",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+966",
+    "name": "Saudi Arabia",
+    "country_code": "sa",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1",
+    "name": "United States",
+    "country_code": "usa",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+58",
+    "name": "Venezuela",
+    "country_code": "ve",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+45",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+49",
+    "name": "Germany",
+    "country_code": "de",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+353",
+    "name": "Ireland",
+    "country_code": "ie",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+40",
+    "name": "Romania",
+    "country_code": "ro",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+46",
+    "name": "Sweden",
+    "country_code": "fr",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+91",
+    "name": "India",
+    "country_code": "in",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+356",
+    "name": "Malta",
+    "country_code": "mt",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+421",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+44",
+    "name": "United Kingdom",
+    "country_code": "uk",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1340",
+    "name": "Virgin Islands",
+    "country_code": "vi",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+66",
+    "name": "Thailand",
+    "country_code": "th",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+60",
+    "name": "Malaysia",
+    "country_code": "my",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+56",
+    "name": "Chile",
+    "country_code": "cl",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+43",
+    "name": "Austria",
+    "country_code": "at",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+673",
+    "name": "Brunei Darussalam",
+    "country_code": "bn",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+86",
+    "name": "China",
+    "country_code": "cn",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+36",
+    "name": "Hungary",
+    "country_code": "hu",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+596",
+    "name": "Martinique",
+    "country_code": "mq",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+976",
+    "name": "Mongolia",
+    "country_code": "mn",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+65",
+    "name": "Singapore",
+    "country_code": "sg",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+82",
+    "name": "South Korea",
+    "country_code": "kr",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+590",
+    "name": "Guadeloupe",
+    "country_code": "gp",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+376",
+    "name": "Andorra",
+    "country_code": "mn",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+880",
+    "name": "Bangladesh",
+    "country_code": "bd",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+55",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+57",
+    "name": "Colombia",
+    "country_code": "co",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+506",
+    "name": "Costa Rica",
+    "country_code": "cr",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+357",
+    "name": "Cyprus",
+    "country_code": "cy",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+420",
+    "name": "Czech Republic",
+    "country_code": "cz",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+81",
+    "name": "Japan",
+    "country_code": "jp",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+595",
+    "name": "Paraguay",
+    "country_code": "py",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+351",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+27",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+886",
+    "name": "Taiwan",
+    "country_code": "tw",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+598",
+    "name": "Uruguay",
+    "country_code": "uy",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+54",
+    "name": "Argentina",
+    "country_code": "ar",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+372",
+    "name": "Estonia",
+    "country_code": "ee",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+354",
+    "name": "Iceland",
+    "country_code": "mn",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+350",
+    "name": "Gibraltar",
+    "country_code": "gi",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+594",
+    "name": "French Guiana",
+    "country_code": "gf",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+244",
+    "name": "Angola",
+    "country_code": "ao",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+359",
+    "name": "Bulgaria",
+    "country_code": "bg",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+855",
+    "name": "Cambodia",
+    "country_code": "kh",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+30",
+    "name": "Greece",
+    "country_code": "gr",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+264",
+    "name": "Namibia",
+    "country_code": "na",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+386",
+    "name": "Slovenia",
+    "country_code": "si",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+61",
+    "name": "Australia",
+    "country_code": "au",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+90",
+    "name": "Turkey",
+    "country_code": "tr",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+298",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+975",
+    "name": "Bhutan",
+    "country_code": "bt",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1345",
+    "name": "Cayman Islands",
+    "country_code": "ky",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+385",
+    "name": "Croatia",
+    "country_code": "hr",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+62",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+856",
+    "name": "Laos",
+    "country_code": "la",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+853",
+    "name": "Macau",
+    "country_code": "mo",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+377",
+    "name": "Monaco",
+    "country_code": "mc",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+92",
+    "name": "Pakistan",
+    "country_code": "pk",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+84",
+    "name": "Vietnam",
+    "country_code": "vn",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1684",
+    "name": "American Samoa",
+    "country_code": "as",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+268",
+    "name": "Swaziland",
+    "country_code": "sz",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+213",
+    "name": "Algeria",
+    "country_code": "dz",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+258",
+    "name": "Mozambique",
+    "country_code": "mz",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1907",
+    "name": "Alaska",
+    "country_code": "ak",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+297",
+    "name": "Aruba",
+    "country_code": "aw",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+973",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+32",
+    "name": "Belgium",
+    "country_code": "be",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+591",
+    "name": "Bolivia",
+    "country_code": "bo",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+267",
+    "name": "Botswana",
+    "country_code": "bw",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+20",
+    "name": "Egypt",
+    "country_code": "eg",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+965",
+    "name": "Kuwait",
+    "country_code": "kw",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+961",
+    "name": "Lebanon",
+    "country_code": "lb",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+230",
+    "name": "Mauritius",
+    "country_code": "mu",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+977",
+    "name": "Nepal",
+    "country_code": "np",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+599",
+    "name": "Netherlands Antilles",
+    "country_code": "an",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+64",
+    "name": "New Zealand",
+    "country_code": "nz",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+234",
+    "name": "Nigeria",
+    "country_code": "ng",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+968",
+    "name": "Oman",
+    "country_code": "om",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+51",
+    "name": "Peru",
+    "country_code": "pe",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+63",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1809",
+    "name": "Dominican Republic",
+    "country_code": "do",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1721",
+    "name": "Sint Maarten",
+    "country_code": "sm",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1868",
+    "name": "Trinidad And Tobago",
+    "country_code": "tt",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+993",
+    "name": "Turkmenistan",
+    "country_code": "tm",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1649",
+    "name": "Turks And Caicos Islands",
+    "country_code": "tc",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+263",
+    "name": "Zimbabwe",
+    "country_code": "zw",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+262",
+    "name": "Reunion",
+    "country_code": "re",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+593",
+    "name": "Ecuador",
+    "country_code": "ec",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+504",
+    "name": "Honduras",
+    "country_code": "hn",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+964",
+    "name": "Iraq",
+    "country_code": "iq",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+254",
+    "name": "Kenya",
+    "country_code": "ke",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+996",
+    "name": "Kyrgyzstan",
+    "country_code": "kg",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+389",
+    "name": "Macedonia",
+    "country_code": "mk",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1664",
+    "name": "Montserrat",
+    "country_code": "ms",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1869",
+    "name": "Saint Kitts And Nevis",
+    "country_code": "kn",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+963",
+    "name": "Syrian Arab Republic",
+    "country_code": "sy",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+380",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+998",
+    "name": "Uzbekistan",
+    "country_code": "uz",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+967",
+    "name": "Yemen",
+    "country_code": "ye",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+237",
+    "name": "Cameroon",
+    "country_code": "cm",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+502",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1441",
+    "name": "Bermuda",
+    "country_code": "bm",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+265",
+    "name": "Malawi",
+    "country_code": "mw",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1784",
+    "name": "Saint Vincent And The Grenadines",
+    "country_code": "vc",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+232",
+    "name": "Sierra Leone",
+    "country_code": "sl",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+252",
+    "name": "Somalia",
+    "country_code": "so",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+256",
+    "name": "Uganda",
+    "country_code": "ug",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+358",
+    "name": "Finland",
+    "country_code": "fi",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+685",
+    "name": "Samoa",
+    "country_code": "ws",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+224",
+    "name": "Guinea",
+    "country_code": "gn",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+235",
+    "name": "Chad",
+    "country_code": "td",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+682",
+    "name": "Cook Islands",
+    "country_code": "ck",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+53",
+    "name": "Cuba",
+    "country_code": "cu",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+686",
+    "name": "Kiribati",
+    "country_code": "ki",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+261",
+    "name": "Madagascar",
+    "country_code": "mg",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+222",
+    "name": "Mauritania",
+    "country_code": "mr",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+675",
+    "name": "Papua New Guinea",
+    "country_code": "pg",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+290",
+    "name": "St Helena",
+    "country_code": "sh",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+248",
+    "name": "Seychelles",
+    "country_code": "sc",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+250",
+    "name": "Rwanda",
+    "country_code": "rw",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+221",
+    "name": "Senegal",
+    "country_code": "sn",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+211",
+    "name": "South Sudan",
+    "country_code": "sd",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+255",
+    "name": "Tanzania",
+    "country_code": "tz",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+228",
+    "name": "Togo",
+    "country_code": "tg",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+678",
+    "name": "Vanuatu",
+    "country_code": "vu",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+371",
+    "name": "Latvia",
+    "country_code": "lv",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+375",
+    "name": "Belarus",
+    "country_code": "by",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+257",
+    "name": "Burundi",
+    "country_code": "bi",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+269",
+    "name": "Comoros",
+    "country_code": "km",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+242",
+    "name": "Republic Of The Congo",
+    "country_code": "cg",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+243",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+253",
+    "name": "Djibouti",
+    "country_code": "dj",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+240",
+    "name": "Equatorial Guinea",
+    "country_code": "gq",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+241",
+    "name": "Gabon",
+    "country_code": "ga",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+220",
+    "name": "Gambia",
+    "country_code": "gm",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+245",
+    "name": "Guinea Bissau",
+    "country_code": "gw",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+231",
+    "name": "Liberia",
+    "country_code": "lr",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+505",
+    "name": "Nicaragua",
+    "country_code": "ni",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+260",
+    "name": "Zambia",
+    "country_code": "zm",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+266",
+    "name": "Lesotho",
+    "country_code": "ls",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1284",
+    "name": "British Virgin Islands",
+    "country_code": "bvi",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1242",
+    "name": "Bahamas",
+    "country_code": "bs",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+229",
+    "name": "Benin",
+    "country_code": "bj",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+291",
+    "name": "Eritrea",
+    "country_code": "er",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+679",
+    "name": "Fiji",
+    "country_code": "fj",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+689",
+    "name": "French Polynesia",
+    "country_code": "pf",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+233",
+    "name": "Ghana",
+    "country_code": "gh",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+299",
+    "name": "Greenland",
+    "country_code": "gl",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+592",
+    "name": "Guyana",
+    "country_code": "gy",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+225",
+    "name": "Ivory Coast",
+    "country_code": "ci",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+218",
+    "name": "Libya",
+    "country_code": "ly",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+423",
+    "name": "Liechtenstein",
+    "country_code": "li",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+373",
+    "name": "Moldova",
+    "country_code": "md",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+212",
+    "name": "Morocco",
+    "country_code": "ma",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+227",
+    "name": "Niger",
+    "country_code": "ne",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+677",
+    "name": "Solomon Islands",
+    "country_code": "sb",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+676",
+    "name": "Tonga",
+    "country_code": "to",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+216",
+    "name": "Tunisia",
+    "country_code": "tn",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+236",
+    "name": "Central African Republic",
+    "country_code": "cf",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+378",
+    "name": "San Marino",
+    "country_code": "sm",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+681",
+    "name": "Wallis And Futuna Islands",
+    "country_code": "wf",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1670",
+    "name": "Northern Mariana Islands",
+    "country_code": "mp",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+93",
+    "name": "Afghanistan",
+    "country_code": "af",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+355",
+    "name": "Albania",
+    "country_code": "al",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1268",
+    "name": "Antigua And Barbuda",
+    "country_code": "ag",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+374",
+    "name": "Armenia",
+    "country_code": "am",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+387",
+    "name": "Bosnia And Herzegovina",
+    "country_code": "ba",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+503",
+    "name": "El Salvador",
+    "country_code": "sv",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+251",
+    "name": "Ethiopia",
+    "country_code": "et",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+995",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1473",
+    "name": "Grenada",
+    "country_code": "gd",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+509",
+    "name": "Haiti",
+    "country_code": "ht",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+962",
+    "name": "Jordan",
+    "country_code": "jo",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+223",
+    "name": "Mali",
+    "country_code": "ml",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+382",
+    "name": "Montenegro",
+    "country_code": "me",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+31",
+    "name": "Netherlands",
+    "country_code": "nl",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+687",
+    "name": "New Caledonia",
+    "country_code": "nc",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+95",
+    "name": "Myanmar",
+    "country_code": "mm",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+597",
+    "name": "Suriname",
+    "country_code": "sr",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+7",
+    "name": "Russian Federation",
+    "country_code": "ru",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+680",
+    "name": "Palau",
+    "country_code": "pw",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+970",
+    "name": "Palestine",
+    "country_code": "ps",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+972",
+    "name": "Palestine",
+    "country_code": "ps",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+974",
+    "name": "Qatar",
+    "country_code": "qa",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+508",
+    "name": "Saint Pierre And Miquelon",
+    "country_code": "spm",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+381",
+    "name": "Serbia",
+    "country_code": "rs",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+94",
+    "name": "Sri Lanka",
+    "country_code": "ik",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+249",
+    "name": "Sudan",
+    "country_code": "sd",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+992",
+    "name": "Tajikistan",
+    "country_code": "tj",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+971",
+    "name": "United Arab Emirates",
+    "country_code": "ae",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1264",
+    "name": "Anguilla",
+    "country_code": "ai",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+994",
+    "name": "Azerbaijan",
+    "country_code": "az",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+501",
+    "name": "Belize",
+    "country_code": "bz",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+226",
+    "name": "Burkina Faso",
+    "country_code": "bf",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1767",
+    "name": "Dominica",
+    "country_code": "dm",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1876",
+    "name": "Jamaica",
+    "country_code": "jm",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+507",
+    "name": "Panama",
+    "country_code": "pa",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+1246",
+    "name": "Barbados",
+    "country_code": "bb",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+238",
+    "name": "Cape Verde",
+    "country_code": "cv",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+692",
+    "name": "Marshall Islands",
+    "country_code": "mh",
+    "code": "landline_international"
+  },
+  {
+    "prefix": "+336",
+    "name": "France",
+    "country_code": "fr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+33700",
+    "name": "France",
+    "country_code": "fr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3373",
+    "name": "France",
+    "country_code": "fr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3374",
+    "name": "France",
+    "country_code": "fr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3375",
+    "name": "France",
+    "country_code": "fr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3376",
+    "name": "France",
+    "country_code": "fr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3377",
+    "name": "France",
+    "country_code": "fr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3378",
+    "name": "France",
+    "country_code": "fr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+852510569",
+    "name": "Hong Kong",
+    "country_code": "hk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+852590599",
+    "name": "Hong Kong",
+    "country_code": "hk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+852601699",
+    "name": "Hong Kong",
+    "country_code": "hk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+852901989",
+    "name": "Hong Kong",
+    "country_code": "hk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39310",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3931100",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3931101",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3931105",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39313",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39319",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39320",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39322",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39323",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39324",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39327",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39328",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39329",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39330",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39331",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39333",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39334",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39335",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39336",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39337",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39338",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39339",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3934",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+393505",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+393510",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+393512",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39360",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39361",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39362",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39363",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39366",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39368",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39370",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+393710",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+393711",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39373",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39377",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39380",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39381",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39382",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39383",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39385",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39388",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39389",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39390",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39391",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39392",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39393",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+39397",
+    "name": "Italy",
+    "country_code": "it",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+352621",
+    "name": "Luxembourg",
+    "country_code": "lu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+352628",
+    "name": "Luxembourg",
+    "country_code": "lu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+352661",
+    "name": "Luxembourg",
+    "country_code": "lu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+352668",
+    "name": "Luxembourg",
+    "country_code": "lu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+352691",
+    "name": "Luxembourg",
+    "country_code": "lu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+352698",
+    "name": "Luxembourg",
+    "country_code": "lu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+521",
+    "name": "Mexico",
+    "country_code": "mx",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+474",
+    "name": "Norway",
+    "country_code": "no",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4759",
+    "name": "Norway",
+    "country_code": "no",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+479",
+    "name": "Norway",
+    "country_code": "no",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4850",
+    "name": "Poland",
+    "country_code": "pl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4845",
+    "name": "Poland",
+    "country_code": "pl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4851",
+    "name": "Poland",
+    "country_code": "pl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4853",
+    "name": "Poland",
+    "country_code": "pl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4857",
+    "name": "Poland",
+    "country_code": "pl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4860",
+    "name": "Poland",
+    "country_code": "pl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4866",
+    "name": "Poland",
+    "country_code": "pl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4869",
+    "name": "Poland",
+    "country_code": "pl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4872",
+    "name": "Poland",
+    "country_code": "pl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4873",
+    "name": "Poland",
+    "country_code": "pl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4878",
+    "name": "Poland",
+    "country_code": "pl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4879",
+    "name": "Poland",
+    "country_code": "pl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4888",
+    "name": "Poland",
+    "country_code": "pl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+346",
+    "name": "Spain",
+    "country_code": "es",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+347",
+    "name": "Spain",
+    "country_code": "es",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4174",
+    "name": "Switzerland",
+    "country_code": "sz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4175",
+    "name": "Switzerland",
+    "country_code": "sz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4176",
+    "name": "Switzerland",
+    "country_code": "sz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4177",
+    "name": "Switzerland",
+    "country_code": "sz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4178",
+    "name": "Switzerland",
+    "country_code": "sz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4179",
+    "name": "Switzerland",
+    "country_code": "sz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96650",
+    "name": "Saudi Arabia",
+    "country_code": "sa",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96651",
+    "name": "Saudi Arabia",
+    "country_code": "sa",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96653",
+    "name": "Saudi Arabia",
+    "country_code": "sa",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96654",
+    "name": "Saudi Arabia",
+    "country_code": "sa",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96655",
+    "name": "Saudi Arabia",
+    "country_code": "sa",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96656",
+    "name": "Saudi Arabia",
+    "country_code": "sa",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96657",
+    "name": "Saudi Arabia",
+    "country_code": "sa",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96658",
+    "name": "Saudi Arabia",
+    "country_code": "sa",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96659",
+    "name": "Saudi Arabia",
+    "country_code": "sa",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+584",
+    "name": "Venezuela",
+    "country_code": "ve",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+452",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4530",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4531",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4540",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4541",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4542",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4550",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4551",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4552",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4553",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4553",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4560",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4561",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4571",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4581",
+    "name": "Denmark",
+    "country_code": "dk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+49151",
+    "name": "Germany",
+    "country_code": "de",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+49152",
+    "name": "Germany",
+    "country_code": "de",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+49155",
+    "name": "Germany",
+    "country_code": "de",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+49157",
+    "name": "Germany",
+    "country_code": "de",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+49159",
+    "name": "Germany",
+    "country_code": "de",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+49160",
+    "name": "Germany",
+    "country_code": "de",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+49162",
+    "name": "Germany",
+    "country_code": "de",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+49163",
+    "name": "Germany",
+    "country_code": "de",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4917",
+    "name": "Germany",
+    "country_code": "de",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3538",
+    "name": "Ireland",
+    "country_code": "ie",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4070",
+    "name": "Romania",
+    "country_code": "ro",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+40711",
+    "name": "Romania",
+    "country_code": "ro",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4072",
+    "name": "Romania",
+    "country_code": "ro",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4073",
+    "name": "Romania",
+    "country_code": "ro",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4074",
+    "name": "Romania",
+    "country_code": "ro",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4075",
+    "name": "Romania",
+    "country_code": "ro",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4076",
+    "name": "Romania",
+    "country_code": "ro",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4077",
+    "name": "Romania",
+    "country_code": "ro",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4078",
+    "name": "Romania",
+    "country_code": "ro",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4670",
+    "name": "Sweden",
+    "country_code": "fr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+46710",
+    "name": "Sweden",
+    "country_code": "fr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4672",
+    "name": "Sweden",
+    "country_code": "fr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4673",
+    "name": "Sweden",
+    "country_code": "fr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4676",
+    "name": "Sweden",
+    "country_code": "fr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4679",
+    "name": "Sweden",
+    "country_code": "fr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+917",
+    "name": "India",
+    "country_code": "in",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+918",
+    "name": "India",
+    "country_code": "in",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+919",
+    "name": "India",
+    "country_code": "in",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35677",
+    "name": "Malta",
+    "country_code": "mt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35679",
+    "name": "Malta",
+    "country_code": "mt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35698",
+    "name": "Malta",
+    "country_code": "mt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35699",
+    "name": "Malta",
+    "country_code": "mt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421901",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421902",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421903",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421904",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421905",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421906",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421907",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421908",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421910",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421911",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421912",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421914",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421915",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421916",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421917",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421918",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421940",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421944",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421948",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421949",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421950",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+421951",
+    "name": "Slovakia",
+    "country_code": "sk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4471",
+    "name": "United Kingdom",
+    "country_code": "uk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4472",
+    "name": "United Kingdom",
+    "country_code": "uk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4473",
+    "name": "United Kingdom",
+    "country_code": "uk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4474",
+    "name": "United Kingdom",
+    "country_code": "uk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4475",
+    "name": "United Kingdom",
+    "country_code": "uk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+447624",
+    "name": "United Kingdom",
+    "country_code": "uk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4477",
+    "name": "United Kingdom",
+    "country_code": "uk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4478",
+    "name": "United Kingdom",
+    "country_code": "uk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4479",
+    "name": "United Kingdom",
+    "country_code": "uk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+666",
+    "name": "Thailand",
+    "country_code": "th",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+668",
+    "name": "Thailand",
+    "country_code": "th",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+669",
+    "name": "Thailand",
+    "country_code": "th",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6010",
+    "name": "Malaysia",
+    "country_code": "my",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6011",
+    "name": "Malaysia",
+    "country_code": "my",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6012",
+    "name": "Malaysia",
+    "country_code": "my",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6013",
+    "name": "Malaysia",
+    "country_code": "my",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6014",
+    "name": "Malaysia",
+    "country_code": "my",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6016",
+    "name": "Malaysia",
+    "country_code": "my",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6017",
+    "name": "Malaysia",
+    "country_code": "my",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6018",
+    "name": "Malaysia",
+    "country_code": "my",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6019",
+    "name": "Malaysia",
+    "country_code": "my",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+569",
+    "name": "Chile",
+    "country_code": "cl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+43650",
+    "name": "Austria",
+    "country_code": "at",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+43660",
+    "name": "Austria",
+    "country_code": "at",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+43664",
+    "name": "Austria",
+    "country_code": "at",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+43676",
+    "name": "Austria",
+    "country_code": "at",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+43680",
+    "name": "Austria",
+    "country_code": "at",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+43677",
+    "name": "Austria",
+    "country_code": "at",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+43681",
+    "name": "Austria",
+    "country_code": "at",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+43688",
+    "name": "Austria",
+    "country_code": "at",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+43699",
+    "name": "Austria",
+    "country_code": "at",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6738",
+    "name": "Brunei Darussalam",
+    "country_code": "bn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+8613",
+    "name": "China",
+    "country_code": "cn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+8615",
+    "name": "China",
+    "country_code": "cn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+8618",
+    "name": "China",
+    "country_code": "cn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3620",
+    "name": "Hungary",
+    "country_code": "hu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3630",
+    "name": "Hungary",
+    "country_code": "hu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3631",
+    "name": "Hungary",
+    "country_code": "hu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3638",
+    "name": "Hungary",
+    "country_code": "hu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3650",
+    "name": "Hungary",
+    "country_code": "hu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3660",
+    "name": "Hungary",
+    "country_code": "hu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3670",
+    "name": "Hungary",
+    "country_code": "hu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+596696",
+    "name": "Martinique",
+    "country_code": "mq",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+596700",
+    "name": "Martinique",
+    "country_code": "mq",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97670",
+    "name": "Mongolia",
+    "country_code": "mn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97688",
+    "name": "Mongolia",
+    "country_code": "mn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97689",
+    "name": "Mongolia",
+    "country_code": "mn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97691",
+    "name": "Mongolia",
+    "country_code": "mn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97693",
+    "name": "Mongolia",
+    "country_code": "mn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97694",
+    "name": "Mongolia",
+    "country_code": "mn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97695",
+    "name": "Mongolia",
+    "country_code": "mn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97696",
+    "name": "Mongolia",
+    "country_code": "mn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97698",
+    "name": "Mongolia",
+    "country_code": "mn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97699",
+    "name": "Mongolia",
+    "country_code": "mn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+658",
+    "name": "Singapore",
+    "country_code": "sg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+659",
+    "name": "Singapore",
+    "country_code": "sg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+8210",
+    "name": "South Korea",
+    "country_code": "kr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+8211",
+    "name": "South Korea",
+    "country_code": "kr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+8216",
+    "name": "South Korea",
+    "country_code": "kr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+8217",
+    "name": "South Korea",
+    "country_code": "kr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+8218",
+    "name": "South Korea",
+    "country_code": "kr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+8219",
+    "name": "South Korea",
+    "country_code": "kr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+590690",
+    "name": "Guadeloupe",
+    "country_code": "gp",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+590700",
+    "name": "Guadeloupe",
+    "country_code": "gp",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3763",
+    "name": "Andorra",
+    "country_code": "mn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+88015",
+    "name": "Bangladesh",
+    "country_code": "bd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+88016",
+    "name": "Bangladesh",
+    "country_code": "bd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+88017",
+    "name": "Bangladesh",
+    "country_code": "bd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+88018",
+    "name": "Bangladesh",
+    "country_code": "bd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+88019",
+    "name": "Bangladesh",
+    "country_code": "bd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55009",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55019",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55029",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55039",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55049",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55059",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55069",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55079",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55089",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55099",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55109",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55119",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55129",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55139",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55149",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55159",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55169",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55179",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55189",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55199",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55209",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55219",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55229",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55239",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55249",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55259",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55269",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55279",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55289",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55299",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55309",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55319",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55329",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55339",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55349",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55359",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55369",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55379",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55389",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55399",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55409",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55419",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55429",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55439",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55449",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55459",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55469",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55479",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55489",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55499",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55509",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55519",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55529",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55539",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55549",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55559",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55569",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55579",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55589",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55599",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55609",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55619",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55629",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55639",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55649",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55659",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55669",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55679",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55689",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55699",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55709",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55719",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55729",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55739",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55749",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55759",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55769",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55779",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55789",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55799",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55809",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55819",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55829",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55839",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55849",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55859",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55869",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55879",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55889",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55899",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55909",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55919",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55929",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55939",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55949",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55959",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55969",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55979",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55989",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+55999",
+    "name": "Brazil",
+    "country_code": "br",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5730",
+    "name": "Colombia",
+    "country_code": "co",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5731",
+    "name": "Colombia",
+    "country_code": "co",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5732",
+    "name": "Colombia",
+    "country_code": "co",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+57350",
+    "name": "Colombia",
+    "country_code": "co",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+57351",
+    "name": "Colombia",
+    "country_code": "co",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5066",
+    "name": "Costa Rica",
+    "country_code": "cr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5067",
+    "name": "Costa Rica",
+    "country_code": "cr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5068",
+    "name": "Costa Rica",
+    "country_code": "cr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35794",
+    "name": "Cyprus",
+    "country_code": "cy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35795",
+    "name": "Cyprus",
+    "country_code": "cy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35796",
+    "name": "Cyprus",
+    "country_code": "cy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35797",
+    "name": "Cyprus",
+    "country_code": "cy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35799",
+    "name": "Cyprus",
+    "country_code": "cy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+420601",
+    "name": "Czech Republic",
+    "country_code": "cz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+420602",
+    "name": "Czech Republic",
+    "country_code": "cz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+420603",
+    "name": "Czech Republic",
+    "country_code": "cz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+420604",
+    "name": "Czech Republic",
+    "country_code": "cz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+420605",
+    "name": "Czech Republic",
+    "country_code": "cz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+420606",
+    "name": "Czech Republic",
+    "country_code": "cz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+420607",
+    "name": "Czech Republic",
+    "country_code": "cz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+420608",
+    "name": "Czech Republic",
+    "country_code": "cz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+420702",
+    "name": "Czech Republic",
+    "country_code": "cz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+42072",
+    "name": "Czech Republic",
+    "country_code": "cz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+42073",
+    "name": "Czech Republic",
+    "country_code": "cz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+42077",
+    "name": "Czech Republic",
+    "country_code": "cz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+420790",
+    "name": "Czech Republic",
+    "country_code": "cz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+81060",
+    "name": "Japan",
+    "country_code": "jp",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+81070",
+    "name": "Japan",
+    "country_code": "jp",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+81080",
+    "name": "Japan",
+    "country_code": "jp",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+81090",
+    "name": "Japan",
+    "country_code": "jp",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5959",
+    "name": "Paraguay",
+    "country_code": "py",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35191",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+351921",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+351922",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+351924",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+351925",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+351926",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+351927",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3519290",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3519291",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3519292",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3519293",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3519294",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35193",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35196",
+    "name": "Portugal",
+    "country_code": "pt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2760",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2771",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2772",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2773",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2774",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+27741",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2776",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2778",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2779",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+27811",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+27812",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+27813",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+27814",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2782",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2783",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2784",
+    "name": "South Africa",
+    "country_code": "za",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+8869",
+    "name": "Taiwan",
+    "country_code": "tw",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+59891",
+    "name": "Uruguay",
+    "country_code": "uy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+59893",
+    "name": "Uruguay",
+    "country_code": "uy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+59894",
+    "name": "Uruguay",
+    "country_code": "uy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+59895",
+    "name": "Uruguay",
+    "country_code": "uy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+59896",
+    "name": "Uruguay",
+    "country_code": "uy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+59897",
+    "name": "Uruguay",
+    "country_code": "uy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+59898",
+    "name": "Uruguay",
+    "country_code": "uy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+59899",
+    "name": "Uruguay",
+    "country_code": "uy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+549",
+    "name": "Argentina",
+    "country_code": "ar",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3725",
+    "name": "Estonia",
+    "country_code": "ee",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3546",
+    "name": "Iceland",
+    "country_code": "mn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35058",
+    "name": "Gibraltar",
+    "country_code": "gi",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+594694",
+    "name": "French Guiana",
+    "country_code": "gf",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+594700",
+    "name": "French Guiana",
+    "country_code": "gf",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24491",
+    "name": "Angola",
+    "country_code": "ao",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24492",
+    "name": "Angola",
+    "country_code": "ao",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24493",
+    "name": "Angola",
+    "country_code": "ao",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35948",
+    "name": "Bulgaria",
+    "country_code": "bg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35987",
+    "name": "Bulgaria",
+    "country_code": "bg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35988",
+    "name": "Bulgaria",
+    "country_code": "bg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35989",
+    "name": "Bulgaria",
+    "country_code": "bg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+359988",
+    "name": "Bulgaria",
+    "country_code": "bg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+85592",
+    "name": "Cambodia",
+    "country_code": "kh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+85512",
+    "name": "Cambodia",
+    "country_code": "kh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+85511",
+    "name": "Cambodia",
+    "country_code": "kh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+85577",
+    "name": "Cambodia",
+    "country_code": "kh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+85599",
+    "name": "Cambodia",
+    "country_code": "kh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+30690",
+    "name": "Greece",
+    "country_code": "gr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+30693",
+    "name": "Greece",
+    "country_code": "gr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+30694",
+    "name": "Greece",
+    "country_code": "gr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+30695",
+    "name": "Greece",
+    "country_code": "gr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+30697",
+    "name": "Greece",
+    "country_code": "gr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+30698",
+    "name": "Greece",
+    "country_code": "gr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+30699",
+    "name": "Greece",
+    "country_code": "gr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+26460",
+    "name": "Namibia",
+    "country_code": "na",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+26481",
+    "name": "Namibia",
+    "country_code": "na",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+26485",
+    "name": "Namibia",
+    "country_code": "na",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38620",
+    "name": "Slovenia",
+    "country_code": "si",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38621",
+    "name": "Slovenia",
+    "country_code": "si",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38630",
+    "name": "Slovenia",
+    "country_code": "si",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38631",
+    "name": "Slovenia",
+    "country_code": "si",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38640",
+    "name": "Slovenia",
+    "country_code": "si",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38649",
+    "name": "Slovenia",
+    "country_code": "si",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38650",
+    "name": "Slovenia",
+    "country_code": "si",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38651",
+    "name": "Slovenia",
+    "country_code": "si",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38660",
+    "name": "Slovenia",
+    "country_code": "si",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38661",
+    "name": "Slovenia",
+    "country_code": "si",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38664",
+    "name": "Slovenia",
+    "country_code": "si",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38670",
+    "name": "Slovenia",
+    "country_code": "si",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38671",
+    "name": "Slovenia",
+    "country_code": "si",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+614",
+    "name": "Australia",
+    "country_code": "au",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9050",
+    "name": "Turkey",
+    "country_code": "tr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9053",
+    "name": "Turkey",
+    "country_code": "tr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9054",
+    "name": "Turkey",
+    "country_code": "tr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9055",
+    "name": "Turkey",
+    "country_code": "tr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29821",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29822",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29823",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29824",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29825",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29826",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29827",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29828",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29829",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2985",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29871",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29872",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29873",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29874",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29875",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29876",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29877",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29878",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29879",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29891",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29892",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29893",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29894",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29895",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29896",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29897",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29898",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+29899",
+    "name": "Faroe Islands",
+    "country_code": "fo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97517",
+    "name": "Bhutan",
+    "country_code": "bt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38591",
+    "name": "Croatia",
+    "country_code": "hr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38592",
+    "name": "Croatia",
+    "country_code": "hr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38595",
+    "name": "Croatia",
+    "country_code": "hr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38597",
+    "name": "Croatia",
+    "country_code": "hr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38598",
+    "name": "Croatia",
+    "country_code": "hr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38599",
+    "name": "Croatia",
+    "country_code": "hr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62811",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62812",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62813",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62814",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62815",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62816",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62817",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62818",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62819",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62838",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62852",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62853",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62855",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62856",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62858",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62859",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62578",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62896",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62897",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62898",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+62899",
+    "name": "Indonesia",
+    "country_code": "id",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+85620",
+    "name": "Laos",
+    "country_code": "la",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+8536",
+    "name": "Macau",
+    "country_code": "mo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3774",
+    "name": "Monaco",
+    "country_code": "mc",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3776",
+    "name": "Monaco",
+    "country_code": "mc",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+923",
+    "name": "Pakistan",
+    "country_code": "pk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+843",
+    "name": "Vietnam",
+    "country_code": "vn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+845",
+    "name": "Vietnam",
+    "country_code": "vn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+847",
+    "name": "Vietnam",
+    "country_code": "vn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+848",
+    "name": "Vietnam",
+    "country_code": "vn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+849",
+    "name": "Vietnam",
+    "country_code": "vn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7700",
+    "name": "Kazakhstan",
+    "country_code": "kz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7708",
+    "name": "Kazakhstan",
+    "country_code": "kz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7701",
+    "name": "Kazakhstan",
+    "country_code": "kz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7702",
+    "name": "Kazakhstan",
+    "country_code": "kz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7775",
+    "name": "Kazakhstan",
+    "country_code": "kz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7778",
+    "name": "Kazakhstan",
+    "country_code": "kz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7705",
+    "name": "Kazakhstan",
+    "country_code": "kz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7771",
+    "name": "Kazakhstan",
+    "country_code": "kz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7776",
+    "name": "Kazakhstan",
+    "country_code": "kz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7777",
+    "name": "Kazakhstan",
+    "country_code": "kz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7707",
+    "name": "Kazakhstan",
+    "country_code": "kz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7747",
+    "name": "Kazakhstan",
+    "country_code": "kz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2135",
+    "name": "Algeria",
+    "country_code": "dz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2136",
+    "name": "Algeria",
+    "country_code": "dz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2137",
+    "name": "Algeria",
+    "country_code": "dz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2588",
+    "name": "Mozambique",
+    "country_code": "mz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97331",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973322",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97333",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973340",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973341",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973343",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973344",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973345",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973353",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973355",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97336",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973377",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973383",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973384",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973388",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97339",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973663",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973666",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+973669",
+    "name": "Bahrain",
+    "country_code": "bh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+32456",
+    "name": "Belgium",
+    "country_code": "be",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3247",
+    "name": "Belgium",
+    "country_code": "be",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3248",
+    "name": "Belgium",
+    "country_code": "be",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3249",
+    "name": "Belgium",
+    "country_code": "be",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5916",
+    "name": "Bolivia",
+    "country_code": "bo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5917",
+    "name": "Bolivia",
+    "country_code": "bo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2677",
+    "name": "Botswana",
+    "country_code": "bw",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2010",
+    "name": "Egypt",
+    "country_code": "eg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2011",
+    "name": "Egypt",
+    "country_code": "eg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2012",
+    "name": "Egypt",
+    "country_code": "eg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9655",
+    "name": "Kuwait",
+    "country_code": "kw",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9656",
+    "name": "Kuwait",
+    "country_code": "kw",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9659",
+    "name": "Kuwait",
+    "country_code": "kw",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9613",
+    "name": "Lebanon",
+    "country_code": "lb",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96170",
+    "name": "Lebanon",
+    "country_code": "lb",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96171",
+    "name": "Lebanon",
+    "country_code": "lb",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96176",
+    "name": "Lebanon",
+    "country_code": "lb",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23057",
+    "name": "Mauritius",
+    "country_code": "mu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23058",
+    "name": "Mauritius",
+    "country_code": "mu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23059",
+    "name": "Mauritius",
+    "country_code": "mu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97798",
+    "name": "Nepal",
+    "country_code": "np",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6420",
+    "name": "New Zealand",
+    "country_code": "nz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6421",
+    "name": "New Zealand",
+    "country_code": "nz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6422",
+    "name": "New Zealand",
+    "country_code": "nz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6424",
+    "name": "New Zealand",
+    "country_code": "nz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6425",
+    "name": "New Zealand",
+    "country_code": "nz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6427",
+    "name": "New Zealand",
+    "country_code": "nz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6428",
+    "name": "New Zealand",
+    "country_code": "nz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6429",
+    "name": "New Zealand",
+    "country_code": "nz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+234804",
+    "name": "Nigeria",
+    "country_code": "ng",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+234805",
+    "name": "Nigeria",
+    "country_code": "ng",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+234803",
+    "name": "Nigeria",
+    "country_code": "ng",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+234802",
+    "name": "Nigeria",
+    "country_code": "ng",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+234809",
+    "name": "Nigeria",
+    "country_code": "ng",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96891",
+    "name": "Oman",
+    "country_code": "om",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96892",
+    "name": "Oman",
+    "country_code": "om",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96893",
+    "name": "Oman",
+    "country_code": "om",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96894",
+    "name": "Oman",
+    "country_code": "om",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96895",
+    "name": "Oman",
+    "country_code": "om",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96896",
+    "name": "Oman",
+    "country_code": "om",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96897",
+    "name": "Oman",
+    "country_code": "om",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96898",
+    "name": "Oman",
+    "country_code": "om",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96899",
+    "name": "Oman",
+    "country_code": "om",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+519",
+    "name": "Peru",
+    "country_code": "pe",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63973",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63974",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63905",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63906",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63977",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63915",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63916",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63926",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63927",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63935",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63936",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63937",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63996",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63997",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63917",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63979",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63920",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63930",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63938",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63939",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63907",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63908",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63909",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63910",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63912",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63919",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63921",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63928",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63929",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63929",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63947",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63948",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63949",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63989",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63918",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63999",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63922",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63923",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63932",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63933",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63942",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+63943",
+    "name": "Philippines",
+    "country_code": "ph",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+1829",
+    "name": "Dominican Republic",
+    "country_code": "do",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+1849",
+    "name": "Dominican Republic",
+    "country_code": "do",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+99365",
+    "name": "Turkmenistan",
+    "country_code": "tm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+99366",
+    "name": "Turkmenistan",
+    "country_code": "tm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+99367",
+    "name": "Turkmenistan",
+    "country_code": "tm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+26371",
+    "name": "Zimbabwe",
+    "country_code": "zw",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+26373",
+    "name": "Zimbabwe",
+    "country_code": "zw",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+26377",
+    "name": "Zimbabwe",
+    "country_code": "zw",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+262692",
+    "name": "Reunion",
+    "country_code": "re",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+262693",
+    "name": "Reunion",
+    "country_code": "re",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+262700",
+    "name": "Reunion",
+    "country_code": "re",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5938",
+    "name": "Ecuador",
+    "country_code": "ec",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5939",
+    "name": "Ecuador",
+    "country_code": "ec",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5043",
+    "name": "Honduras",
+    "country_code": "hn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5047",
+    "name": "Honduras",
+    "country_code": "hn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5048",
+    "name": "Honduras",
+    "country_code": "hn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5049",
+    "name": "Honduras",
+    "country_code": "hn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96473",
+    "name": "Iraq",
+    "country_code": "iq",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96474",
+    "name": "Iraq",
+    "country_code": "iq",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96475",
+    "name": "Iraq",
+    "country_code": "iq",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96476",
+    "name": "Iraq",
+    "country_code": "iq",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96477",
+    "name": "Iraq",
+    "country_code": "iq",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96478",
+    "name": "Iraq",
+    "country_code": "iq",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96479",
+    "name": "Iraq",
+    "country_code": "iq",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+25470",
+    "name": "Kenya",
+    "country_code": "ke",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+25471",
+    "name": "Kenya",
+    "country_code": "ke",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+25472",
+    "name": "Kenya",
+    "country_code": "ke",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+25473",
+    "name": "Kenya",
+    "country_code": "ke",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+25474",
+    "name": "Kenya",
+    "country_code": "ke",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+25475",
+    "name": "Kenya",
+    "country_code": "ke",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+254763",
+    "name": "Kenya",
+    "country_code": "ke",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+25477",
+    "name": "Kenya",
+    "country_code": "ke",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+25478",
+    "name": "Kenya",
+    "country_code": "ke",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9965",
+    "name": "Kyrgyzstan",
+    "country_code": "kg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38970",
+    "name": "Macedonia",
+    "country_code": "mk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38971",
+    "name": "Macedonia",
+    "country_code": "mk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38972",
+    "name": "Macedonia",
+    "country_code": "mk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38973",
+    "name": "Macedonia",
+    "country_code": "mk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38974",
+    "name": "Macedonia",
+    "country_code": "mk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38975",
+    "name": "Macedonia",
+    "country_code": "mk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38976",
+    "name": "Macedonia",
+    "country_code": "mk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38977",
+    "name": "Macedonia",
+    "country_code": "mk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38978",
+    "name": "Macedonia",
+    "country_code": "mk",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96393",
+    "name": "Syrian Arab Republic",
+    "country_code": "sy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96394",
+    "name": "Syrian Arab Republic",
+    "country_code": "sy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96395",
+    "name": "Syrian Arab Republic",
+    "country_code": "sy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96396",
+    "name": "Syrian Arab Republic",
+    "country_code": "sy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96398",
+    "name": "Syrian Arab Republic",
+    "country_code": "sy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96399",
+    "name": "Syrian Arab Republic",
+    "country_code": "sy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38039",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38050",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38063",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38066",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38067",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38068",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38091",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38092",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38093",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38094",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38095",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38096",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38097",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38098",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38099",
+    "name": "Ukraine",
+    "country_code": "ua",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+99890",
+    "name": "Uzbekistan",
+    "country_code": "uz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+99891",
+    "name": "Uzbekistan",
+    "country_code": "uz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+99893",
+    "name": "Uzbekistan",
+    "country_code": "uz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+99894",
+    "name": "Uzbekistan",
+    "country_code": "uz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+99897",
+    "name": "Uzbekistan",
+    "country_code": "uz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9677",
+    "name": "Yemen",
+    "country_code": "ye",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2377",
+    "name": "Cameroon",
+    "country_code": "cm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2379",
+    "name": "Cameroon",
+    "country_code": "cm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+502231",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5022324",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5022326",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5022327",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5022328",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5022329",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5022428",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5022429",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+50230",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+502310",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+502311",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5023120",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5023121",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5023122",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5023123",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5023124",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5023125",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5023126",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5023127",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5023128",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5024",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5025",
+    "name": "Guatemala",
+    "country_code": "gt",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2658",
+    "name": "Malawi",
+    "country_code": "mw",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2659",
+    "name": "Malawi",
+    "country_code": "mw",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23223",
+    "name": "Sierra Leone",
+    "country_code": "sl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23230",
+    "name": "Sierra Leone",
+    "country_code": "sl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23233",
+    "name": "Sierra Leone",
+    "country_code": "sl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2327",
+    "name": "Sierra Leone",
+    "country_code": "sl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2567",
+    "name": "Uganda",
+    "country_code": "ug",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3584",
+    "name": "Finland",
+    "country_code": "fi",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35850",
+    "name": "Finland",
+    "country_code": "fi",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+68577",
+    "name": "Samoa",
+    "country_code": "ws",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2246",
+    "name": "Guinea",
+    "country_code": "gn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23563",
+    "name": "Chad",
+    "country_code": "td",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23565",
+    "name": "Chad",
+    "country_code": "td",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23566",
+    "name": "Chad",
+    "country_code": "td",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23590",
+    "name": "Chad",
+    "country_code": "td",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23593",
+    "name": "Chad",
+    "country_code": "td",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23595",
+    "name": "Chad",
+    "country_code": "td",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23599",
+    "name": "Chad",
+    "country_code": "td",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23577",
+    "name": "Chad",
+    "country_code": "td",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6825",
+    "name": "Cook Islands",
+    "country_code": "ck",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6827",
+    "name": "Cook Islands",
+    "country_code": "ck",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+535",
+    "name": "Cuba",
+    "country_code": "cu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+68663",
+    "name": "Kiribati",
+    "country_code": "ki",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6867",
+    "name": "Kiribati",
+    "country_code": "ki",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2613",
+    "name": "Madagascar",
+    "country_code": "mg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2226",
+    "name": "Mauritania",
+    "country_code": "mr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+67568",
+    "name": "Papua New Guinea",
+    "country_code": "pg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+67569",
+    "name": "Papua New Guinea",
+    "country_code": "pg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2485",
+    "name": "Seychelles",
+    "country_code": "sc",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2487",
+    "name": "Seychelles",
+    "country_code": "sc",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+25007",
+    "name": "Rwanda",
+    "country_code": "rw",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+25008",
+    "name": "Rwanda",
+    "country_code": "rw",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+22176",
+    "name": "Senegal",
+    "country_code": "sn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+22177",
+    "name": "Senegal",
+    "country_code": "sn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2119",
+    "name": "South Sudan",
+    "country_code": "sd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+25574",
+    "name": "Tanzania",
+    "country_code": "tz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+22890",
+    "name": "Togo",
+    "country_code": "tg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+22891",
+    "name": "Togo",
+    "country_code": "tg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+22892",
+    "name": "Togo",
+    "country_code": "tg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+22897",
+    "name": "Togo",
+    "country_code": "tg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+22898",
+    "name": "Togo",
+    "country_code": "tg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+22899",
+    "name": "Togo",
+    "country_code": "tg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6784",
+    "name": "Vanuatu",
+    "country_code": "vu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6785",
+    "name": "Vanuatu",
+    "country_code": "vu",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3712",
+    "name": "Latvia",
+    "country_code": "lv",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37525",
+    "name": "Belarus",
+    "country_code": "by",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37529",
+    "name": "Belarus",
+    "country_code": "by",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37533",
+    "name": "Belarus",
+    "country_code": "by",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37544",
+    "name": "Belarus",
+    "country_code": "by",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2577",
+    "name": "Burundi",
+    "country_code": "bi",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2693",
+    "name": "Comoros",
+    "country_code": "km",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2424",
+    "name": "Republic Of The Congo",
+    "country_code": "cg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2425",
+    "name": "Republic Of The Congo",
+    "country_code": "cg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2426",
+    "name": "Republic Of The Congo",
+    "country_code": "cg",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24322",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24378",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24381",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24384",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24385",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24386",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24388",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24389",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24390",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24394",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24395",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24396",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24397",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24398",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+24399",
+    "name": "Democratic Republic Of The Congo",
+    "country_code": "cd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2538",
+    "name": "Djibouti",
+    "country_code": "dj",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2402",
+    "name": "Equatorial Guinea",
+    "country_code": "gq",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2407",
+    "name": "Equatorial Guinea",
+    "country_code": "gq",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2412",
+    "name": "Gabon",
+    "country_code": "ga",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2413",
+    "name": "Gabon",
+    "country_code": "ga",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2414",
+    "name": "Gabon",
+    "country_code": "ga",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2415",
+    "name": "Gabon",
+    "country_code": "ga",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2416",
+    "name": "Gabon",
+    "country_code": "ga",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2417",
+    "name": "Gabon",
+    "country_code": "ga",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2207",
+    "name": "Gambia",
+    "country_code": "gm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2209",
+    "name": "Gambia",
+    "country_code": "gm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2456",
+    "name": "Guinea Bissau",
+    "country_code": "gw",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2457",
+    "name": "Guinea Bissau",
+    "country_code": "gw",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23146",
+    "name": "Liberia",
+    "country_code": "lr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23147",
+    "name": "Liberia",
+    "country_code": "lr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2315",
+    "name": "Liberia",
+    "country_code": "lr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23164",
+    "name": "Liberia",
+    "country_code": "lr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23165",
+    "name": "Liberia",
+    "country_code": "lr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2317",
+    "name": "Liberia",
+    "country_code": "lr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5058",
+    "name": "Nicaragua",
+    "country_code": "ni",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2609",
+    "name": "Zambia",
+    "country_code": "zm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+26658",
+    "name": "Lesotho",
+    "country_code": "ls",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2666",
+    "name": "Lesotho",
+    "country_code": "ls",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+124235",
+    "name": "Bahamas",
+    "country_code": "bs",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+124245",
+    "name": "Bahamas",
+    "country_code": "bs",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+124255",
+    "name": "Bahamas",
+    "country_code": "bs",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2299",
+    "name": "Benin",
+    "country_code": "bj",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2917",
+    "name": "Eritrea",
+    "country_code": "er",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6793",
+    "name": "Fiji",
+    "country_code": "fj",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6797",
+    "name": "Fiji",
+    "country_code": "fj",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6799",
+    "name": "Fiji",
+    "country_code": "fj",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+68987",
+    "name": "French Polynesia",
+    "country_code": "pf",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+68989",
+    "name": "French Polynesia",
+    "country_code": "pf",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23320",
+    "name": "Ghana",
+    "country_code": "gh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23323",
+    "name": "Ghana",
+    "country_code": "gh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23324",
+    "name": "Ghana",
+    "country_code": "gh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23326",
+    "name": "Ghana",
+    "country_code": "gh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23327",
+    "name": "Ghana",
+    "country_code": "gh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23328",
+    "name": "Ghana",
+    "country_code": "gh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23354",
+    "name": "Ghana",
+    "country_code": "gh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+23357",
+    "name": "Ghana",
+    "country_code": "gh",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5926",
+    "name": "Guyana",
+    "country_code": "gy",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2250",
+    "name": "Ivory Coast",
+    "country_code": "ci",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2256",
+    "name": "Ivory Coast",
+    "country_code": "ci",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+21891",
+    "name": "Libya",
+    "country_code": "ly",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+21892",
+    "name": "Libya",
+    "country_code": "ly",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+21894",
+    "name": "Libya",
+    "country_code": "ly",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+4237",
+    "name": "Liechtenstein",
+    "country_code": "li",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37360",
+    "name": "Moldova",
+    "country_code": "md",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37365",
+    "name": "Moldova",
+    "country_code": "md",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37367",
+    "name": "Moldova",
+    "country_code": "md",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37368",
+    "name": "Moldova",
+    "country_code": "md",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37369",
+    "name": "Moldova",
+    "country_code": "md",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37378",
+    "name": "Moldova",
+    "country_code": "md",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37379",
+    "name": "Moldova",
+    "country_code": "md",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2126",
+    "name": "Morocco",
+    "country_code": "ma",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2279",
+    "name": "Niger",
+    "country_code": "ne",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+67774",
+    "name": "Solomon Islands",
+    "country_code": "sb",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+67775",
+    "name": "Solomon Islands",
+    "country_code": "sb",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+67615",
+    "name": "Tonga",
+    "country_code": "to",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+67616",
+    "name": "Tonga",
+    "country_code": "to",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+67617",
+    "name": "Tonga",
+    "country_code": "to",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+67618",
+    "name": "Tonga",
+    "country_code": "to",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+67619",
+    "name": "Tonga",
+    "country_code": "to",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+67687",
+    "name": "Tonga",
+    "country_code": "to",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+67688",
+    "name": "Tonga",
+    "country_code": "to",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+67689",
+    "name": "Tonga",
+    "country_code": "to",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2162",
+    "name": "Tunisia",
+    "country_code": "tn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2163",
+    "name": "Tunisia",
+    "country_code": "tn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2164",
+    "name": "Tunisia",
+    "country_code": "tn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2165",
+    "name": "Tunisia",
+    "country_code": "tn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2169",
+    "name": "Tunisia",
+    "country_code": "tn",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37866",
+    "name": "San Marino",
+    "country_code": "sm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+937",
+    "name": "Afghanistan",
+    "country_code": "af",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35562",
+    "name": "Albania",
+    "country_code": "al",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35563",
+    "name": "Albania",
+    "country_code": "al",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35564",
+    "name": "Albania",
+    "country_code": "al",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35565",
+    "name": "Albania",
+    "country_code": "al",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35566",
+    "name": "Albania",
+    "country_code": "al",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35567",
+    "name": "Albania",
+    "country_code": "al",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35568",
+    "name": "Albania",
+    "country_code": "al",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+35569",
+    "name": "Albania",
+    "country_code": "al",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+12687",
+    "name": "Antigua And Barbuda",
+    "country_code": "ag",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37455",
+    "name": "Armenia",
+    "country_code": "am",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37495",
+    "name": "Armenia",
+    "country_code": "am",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37441",
+    "name": "Armenia",
+    "country_code": "am",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37444",
+    "name": "Armenia",
+    "country_code": "am",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37477",
+    "name": "Armenia",
+    "country_code": "am",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37493",
+    "name": "Armenia",
+    "country_code": "am",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37494",
+    "name": "Armenia",
+    "country_code": "am",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37498",
+    "name": "Armenia",
+    "country_code": "am",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37491",
+    "name": "Armenia",
+    "country_code": "am",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37499",
+    "name": "Armenia",
+    "country_code": "am",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37443",
+    "name": "Armenia",
+    "country_code": "am",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+37497",
+    "name": "Armenia",
+    "country_code": "am",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38760",
+    "name": "Bosnia And Herzegovina",
+    "country_code": "ba",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38761",
+    "name": "Bosnia And Herzegovina",
+    "country_code": "ba",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38762",
+    "name": "Bosnia And Herzegovina",
+    "country_code": "ba",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38763",
+    "name": "Bosnia And Herzegovina",
+    "country_code": "ba",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38764",
+    "name": "Bosnia And Herzegovina",
+    "country_code": "ba",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38765",
+    "name": "Bosnia And Herzegovina",
+    "country_code": "ba",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38766",
+    "name": "Bosnia And Herzegovina",
+    "country_code": "ba",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5036",
+    "name": "El Salvador",
+    "country_code": "sv",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5037",
+    "name": "El Salvador",
+    "country_code": "sv",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2519",
+    "name": "Ethiopia",
+    "country_code": "et",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995544",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995514",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995551",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995555",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995557",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995558",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995568",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995570",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995571",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995574",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995577",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995578",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995579",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995591",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995592",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995593",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995594",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995595",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995596",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995597",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995598",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+995599",
+    "name": "Georgia",
+    "country_code": "ge",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+147341",
+    "name": "Grenada",
+    "country_code": "gd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+50934",
+    "name": "Haiti",
+    "country_code": "ht",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+50939",
+    "name": "Haiti",
+    "country_code": "ht",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+50935",
+    "name": "Haiti",
+    "country_code": "ht",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+50936",
+    "name": "Haiti",
+    "country_code": "ht",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+50937",
+    "name": "Haiti",
+    "country_code": "ht",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+50938",
+    "name": "Haiti",
+    "country_code": "ht",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5094",
+    "name": "Haiti",
+    "country_code": "ht",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96277",
+    "name": "Jordan",
+    "country_code": "jo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96278",
+    "name": "Jordan",
+    "country_code": "jo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+96279",
+    "name": "Jordan",
+    "country_code": "jo",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2233",
+    "name": "Mali",
+    "country_code": "ml",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2234",
+    "name": "Mali",
+    "country_code": "ml",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2235",
+    "name": "Mali",
+    "country_code": "ml",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2236",
+    "name": "Mali",
+    "country_code": "ml",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2237",
+    "name": "Mali",
+    "country_code": "ml",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38260",
+    "name": "Montenegro",
+    "country_code": "me",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38263",
+    "name": "Montenegro",
+    "country_code": "me",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38266",
+    "name": "Montenegro",
+    "country_code": "me",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38267",
+    "name": "Montenegro",
+    "country_code": "me",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38268",
+    "name": "Montenegro",
+    "country_code": "me",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+38269",
+    "name": "Montenegro",
+    "country_code": "me",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+316",
+    "name": "Netherlands",
+    "country_code": "nl",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6878",
+    "name": "New Caledonia",
+    "country_code": "nc",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6878",
+    "name": "New Caledonia",
+    "country_code": "nc",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+6879",
+    "name": "New Caledonia",
+    "country_code": "nc",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9592",
+    "name": "Myanmar",
+    "country_code": "mm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9593",
+    "name": "Myanmar",
+    "country_code": "mm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9594",
+    "name": "Myanmar",
+    "country_code": "mm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9595",
+    "name": "Myanmar",
+    "country_code": "mm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9596",
+    "name": "Myanmar",
+    "country_code": "mm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+95973",
+    "name": "Myanmar",
+    "country_code": "mm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+95991",
+    "name": "Myanmar",
+    "country_code": "mm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+95996",
+    "name": "Myanmar",
+    "country_code": "mm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+95997",
+    "name": "Myanmar",
+    "country_code": "mm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+95977",
+    "name": "Myanmar",
+    "country_code": "mm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+95978",
+    "name": "Myanmar",
+    "country_code": "mm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+95979",
+    "name": "Myanmar",
+    "country_code": "mm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5978",
+    "name": "Suriname",
+    "country_code": "sr",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+790",
+    "name": "Russian Federation",
+    "country_code": "ru",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+791",
+    "name": "Russian Federation",
+    "country_code": "ru",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+792",
+    "name": "Russian Federation",
+    "country_code": "ru",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+793",
+    "name": "Russian Federation",
+    "country_code": "ru",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7950",
+    "name": "Russian Federation",
+    "country_code": "ru",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7951",
+    "name": "Russian Federation",
+    "country_code": "ru",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7952",
+    "name": "Russian Federation",
+    "country_code": "ru",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+7953",
+    "name": "Russian Federation",
+    "country_code": "ru",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97056",
+    "name": "Palestine",
+    "country_code": "ps",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97059",
+    "name": "Palestine",
+    "country_code": "ps",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97256",
+    "name": "Palestine",
+    "country_code": "ps",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97259",
+    "name": "Palestine",
+    "country_code": "ps",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97433",
+    "name": "Qatar",
+    "country_code": "qa",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97455",
+    "name": "Qatar",
+    "country_code": "qa",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97466",
+    "name": "Qatar",
+    "country_code": "qa",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97477",
+    "name": "Qatar",
+    "country_code": "qa",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+3816",
+    "name": "Serbia",
+    "country_code": "rs",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9470",
+    "name": "Sri Lanka",
+    "country_code": "ik",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9471",
+    "name": "Sri Lanka",
+    "country_code": "ik",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9472",
+    "name": "Sri Lanka",
+    "country_code": "ik",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9475",
+    "name": "Sri Lanka",
+    "country_code": "ik",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9476",
+    "name": "Sri Lanka",
+    "country_code": "ik",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9477",
+    "name": "Sri Lanka",
+    "country_code": "ik",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9478",
+    "name": "Sri Lanka",
+    "country_code": "ik",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2499",
+    "name": "Sudan",
+    "country_code": "sd",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+9929",
+    "name": "Tajikistan",
+    "country_code": "tj",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97150",
+    "name": "United Arab Emirates",
+    "country_code": "ae",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97152",
+    "name": "United Arab Emirates",
+    "country_code": "ae",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97154",
+    "name": "United Arab Emirates",
+    "country_code": "ae",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97155",
+    "name": "United Arab Emirates",
+    "country_code": "ae",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97156",
+    "name": "United Arab Emirates",
+    "country_code": "ae",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+97158",
+    "name": "United Arab Emirates",
+    "country_code": "ae",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+1264772",
+    "name": "Anguilla",
+    "country_code": "ai",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+99440",
+    "name": "Azerbaijan",
+    "country_code": "az",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+99450",
+    "name": "Azerbaijan",
+    "country_code": "az",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+99451",
+    "name": "Azerbaijan",
+    "country_code": "az",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+99455",
+    "name": "Azerbaijan",
+    "country_code": "az",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+99470",
+    "name": "Azerbaijan",
+    "country_code": "az",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+99477",
+    "name": "Azerbaijan",
+    "country_code": "az",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5016",
+    "name": "Belize",
+    "country_code": "bz",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2267",
+    "name": "Burkina Faso",
+    "country_code": "bf",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+17672",
+    "name": "Dominica",
+    "country_code": "dm",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+5076",
+    "name": "Panama",
+    "country_code": "pa",
+    "code": "mobile_international"
+  },
+  {
+    "prefix": "+2389",
+    "name": "Cape Verde",
+    "country_code": "cv",
+    "code": "mobile_international"
+  }
+]
+    

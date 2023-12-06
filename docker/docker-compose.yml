@@ -1,0 +1,194 @@
+version: '3.8'
+# CGRATES_GATEWAY_DATABASES environments must match in cgg_postgres and cgg_app services
+services:
+  cgg_nginx:
+    image: nginx:1.19-alpine
+    restart: unless-stopped
+    tty: true
+    networks:
+      - cgg-network
+    volumes:
+      - ./configs/nginx/default.conf:/etc/nginx/conf.d/default.conf:ro
+      - static-content:/usr/share/cgg/static
+      - log-nginx:/var/log/nginx
+  cgg_ha:
+    image: haproxy:lts
+    depends_on:
+      - cgg_app_1
+      - cgg_app_2
+    restart: unless-stopped
+    tty: true
+    ports:
+      - "8080:8080"
+      - "8989:8989"
+    networks:
+      - cgg-network
+    volumes:
+      - ./configs/ha/haproxy.conf:/usr/local/etc/haproxy/haproxy.cfg:ro
+      - log-ha:/var/log/haproxy
+  cgg_postgres:
+    image: postgres:12
+    environment:
+      PGDATA: /data/postgres
+      POSTGRES_USER: root
+      POSTGRES_PASSWORD: 123456
+      CGRATES_GATEWAY_DATABASES_DEFAULT_NAME: cgg_default_db
+      CGRATES_GATEWAY_DATABASES_TEST_DEFAULT_NAME: cgg_default_db_test
+      CGRATES_GATEWAY_DATABASES_DEFAULT_USER: cgg_default_db_user
+      CGRATES_GATEWAY_DATABASES_DEFAULT_PASSWORD: 562mep125pem21
+      CGRATES_GATEWAY_DATABASES_LOG_NAME: cgg_log_db
+      CGRATES_GATEWAY_DATABASES_TEST_LOG_NAME: cgg_log_db_test
+      CGRATES_GATEWAY_DATABASES_LOG_USER: cgg_log_db_user
+      CGRATES_GATEWAY_DATABASES_LOG_PASSWORD: 565mep825pem29
+    volumes:
+      - ./db-init-scripts:/docker-entrypoint-initdb.d
+      - data-postgres:/data/postgres
+    networks:
+      - cgg-network
+    restart: always
+  cgg_redis:
+    image: redis:6-buster
+    entrypoint: redis-server --rdbcompression yes --dbfilename cgg.rdb --save 300 1 --timeout 0
+    volumes:
+      - data-redis:/data
+    networks:
+      - cgg-network
+    restart: always
+  cgg_app_1:
+    env_file:
+      - ./configs/env/app.env
+    image: nexfon-cgg
+    build:
+      context: ..
+      dockerfile: ./Dockerfile
+    depends_on:
+      - cgg_redis
+      - cgg_postgres
+    networks:
+      - cgg-network
+    volumes:
+      - migration-finance:/nexfon-cgg/cgg/apps/finance/migrations
+      - migration-api:/nexfon-cgg/cgg/apps/api_request/migrations
+      - migration-basic:/nexfon-cgg/cgg/apps/basic/migrations
+      - data-locale:/nexfon-cgg/cgg/locale
+      - log-logger:/nexfon-cgg/cgg/logs
+      - log-uwsgi:/var/log/cgg
+      - static-content:/usr/share/cgg/static
+    environment:
+      CGRATES_GATEWAY_DATABASES_DEFAULT_HOST: cgg_postgres
+      CGRATES_GATEWAY_DATABASES_DEFAULT_PORT: 5432
+      CGRATES_GATEWAY_DATABASES_LOG_HOST: cgg_postgres
+      CGRATES_GATEWAY_DATABASES_LOG_PORT: 5432
+      CGRATES_GATEWAY_DATABASES_DEFAULT_NAME: cgg_default_db
+      CGRATES_GATEWAY_DATABASES_TEST_DEFAULT_NAME: cgg_default_db_test
+      CGRATES_GATEWAY_DATABASES_DEFAULT_USER: cgg_default_db_user
+      CGRATES_GATEWAY_DATABASES_DEFAULT_PASSWORD: 562mep125pem21
+      CGRATES_GATEWAY_DATABASES_LOG_NAME: cgg_log_db
+      CGRATES_GATEWAY_DATABASES_TEST_LOG_NAME: cgg_log_db_test
+      CGRATES_GATEWAY_DATABASES_LOG_USER: cgg_log_db_user
+      CGRATES_GATEWAY_DATABASES_LOG_PASSWORD: 565mep825pem29
+      CGRATES_GATEWAY_REDIS_HOST: redis://cgg_redis
+      CGRATES_GATEWAY_REDIS_PORT: 6379
+      CGRATES_GATEWAY_CELERY_DATABASE: 9
+      CGRATES_GATEWAY_CACHE_DATABASE: 10
+      CGRATES_GATEWAY_CACHE_PREFIX: cgg
+      CGRATES_GATEWAY_STATIC_ROOT: /usr/share/cgg/static
+      CGRATES_GATEWAY_STATIC_URL: /static/
+      CGRATES_GATEWAY_STATIC_DIRS: staticdir
+    restart: unless-stopped
+  cgg_app_2:
+    env_file:
+      - ./configs/env/app.env
+    image: nexfon-cgg
+    depends_on:
+      - cgg_redis
+      - cgg_postgres
+    networks:
+      - cgg-network
+    volumes:
+      - migration-finance:/nexfon-cgg/cgg/apps/finance/migrations
+      - migration-api:/nexfon-cgg/cgg/apps/api_request/migrations
+      - migration-basic:/nexfon-cgg/cgg/apps/basic/migrations
+      - data-locale:/nexfon-cgg/cgg/locale
+      - log-logger:/nexfon-cgg/cgg/logs
+      - log-uwsgi:/var/log/cgg
+      - static-content:/usr/share/cgg/static
+    environment:
+      CGRATES_GATEWAY_DATABASES_DEFAULT_HOST: cgg_postgres
+      CGRATES_GATEWAY_DATABASES_DEFAULT_PORT: 5432
+      CGRATES_GATEWAY_DATABASES_LOG_HOST: cgg_postgres
+      CGRATES_GATEWAY_DATABASES_LOG_PORT: 5432
+      CGRATES_GATEWAY_DATABASES_DEFAULT_NAME: cgg_default_db
+      CGRATES_GATEWAY_DATABASES_TEST_DEFAULT_NAME: cgg_default_db_test
+      CGRATES_GATEWAY_DATABASES_DEFAULT_USER: cgg_default_db_user
+      CGRATES_GATEWAY_DATABASES_DEFAULT_PASSWORD: 562mep125pem21
+      CGRATES_GATEWAY_DATABASES_LOG_NAME: cgg_log_db
+      CGRATES_GATEWAY_DATABASES_TEST_LOG_NAME: cgg_log_db_test
+      CGRATES_GATEWAY_DATABASES_LOG_USER: cgg_log_db_user
+      CGRATES_GATEWAY_DATABASES_LOG_PASSWORD: 565mep825pem29
+      CGRATES_GATEWAY_REDIS_HOST: redis://cgg_redis
+      CGRATES_GATEWAY_REDIS_PORT: 6379
+      CGRATES_GATEWAY_CELERY_DATABASE: 9
+      CGRATES_GATEWAY_CACHE_DATABASE: 10
+      CGRATES_GATEWAY_CACHE_PREFIX: cgg
+      CGRATES_GATEWAY_STATIC_ROOT: /usr/share/cgg/static
+      CGRATES_GATEWAY_STATIC_URL: /static/
+      CGRATES_GATEWAY_STATIC_DIRS: staticdir
+    restart: unless-stopped
+  cgg_celery_worker:
+    env_file:
+      - ./configs/env/app.env
+    image: nexfon-cgg-worker
+    build:
+      context: ..
+      dockerfile: ./DockerfileCelery
+    depends_on:
+      - cgg_redis
+      - cgg_postgres
+    networks:
+      - cgg-network
+    volumes:
+      - migration-finance:/nexfon-cgg/cgg/apps/finance/migrations
+      - migration-api:/nexfon-cgg/cgg/apps/api_request/migrations
+      - migration-basic:/nexfon-cgg/cgg/apps/basic/migrations
+      - data-locale:/nexfon-cgg/cgg/locale
+      - log-logger:/nexfon-cgg/cgg/logs
+      - log-uwsgi:/var/log/cgg
+      - static-content:/usr/share/cgg/static
+    environment:
+      CGRATES_GATEWAY_DATABASES_DEFAULT_HOST: cgg_postgres
+      CGRATES_GATEWAY_DATABASES_DEFAULT_PORT: 5432
+      CGRATES_GATEWAY_DATABASES_LOG_HOST: cgg_postgres
+      CGRATES_GATEWAY_DATABASES_LOG_PORT: 5432
+      CGRATES_GATEWAY_DATABASES_DEFAULT_NAME: cgg_default_db
+      CGRATES_GATEWAY_DATABASES_TEST_DEFAULT_NAME: cgg_default_db_test
+      CGRATES_GATEWAY_DATABASES_DEFAULT_USER: cgg_default_db_user
+      CGRATES_GATEWAY_DATABASES_DEFAULT_PASSWORD: 562mep125pem21
+      CGRATES_GATEWAY_DATABASES_LOG_NAME: cgg_log_db
+      CGRATES_GATEWAY_DATABASES_TEST_LOG_NAME: cgg_log_db_test
+      CGRATES_GATEWAY_DATABASES_LOG_USER: cgg_log_db_user
+      CGRATES_GATEWAY_DATABASES_LOG_PASSWORD: 565mep825pem29
+      CGRATES_GATEWAY_REDIS_HOST: redis://cgg_redis
+      CGRATES_GATEWAY_REDIS_PORT: 6379
+      CGRATES_GATEWAY_CELERY_DATABASE: 9
+      CGRATES_GATEWAY_CACHE_DATABASE: 10
+      CGRATES_GATEWAY_CACHE_PREFIX: cgg
+      CGRATES_GATEWAY_STATIC_ROOT: /usr/share/cgg/static
+      CGRATES_GATEWAY_STATIC_URL: /static/
+      CGRATES_GATEWAY_STATIC_DIRS: staticdir
+    restart: unless-stopped
+networks:
+  cgg-network:
+    driver: bridge
+volumes:
+  static-content:
+  log-nginx:
+  log-ha:
+  log-uwsgi:
+  log-logger:
+  data-postgres:
+  data-redis:
+  data-locale:
+  migration-api:
+  migration-basic:
+  migration-finance:

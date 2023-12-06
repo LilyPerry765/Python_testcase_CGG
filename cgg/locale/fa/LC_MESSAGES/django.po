@@ -1,0 +1,1917 @@
+# --------------------------------------------------------------------------
+# Translation file for fa
+# (C) 2020 MehrdadEP, Tehran, Iran
+# Respina Networks and beyonds - django.po
+# Created at 2020-10-18,  14:32:40
+# Author: Mehrdad Esmaeilpour
+# Email: m.esmailpour@respina.net
+# --------------------------------------------------------------------------
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-26 09:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: cgg/apps/basic/versions/v1/api/api.py:89
+msgid "Details of all accounts"
+msgstr "جزئبات حساب ها"
+
+#: cgg/apps/basic/versions/v1/api/api.py:116
+msgid "Details of an account"
+msgstr "جزئبات حساب"
+
+#: cgg/apps/basic/versions/v1/api/api.py:152
+msgid "Details of CDRs"
+msgstr "جزئبات تماس ها"
+
+#: cgg/apps/basic/versions/v1/api/api.py:188
+msgid "Details of actions"
+msgstr "جزئبات عملکردها"
+
+#: cgg/apps/basic/versions/v1/api/api.py:223
+msgid "Details of attributes"
+msgstr "جزئبات صفات"
+
+#: cgg/apps/basic/versions/v1/api/api.py:255
+msgid "Details of an attribute"
+msgstr "جزئبات صفت"
+
+#: cgg/apps/basic/versions/v1/api/api.py:293
+#: cgg/apps/finance/versions/v1/api/api.py:1507
+msgid "Details of destinations"
+msgstr "جزئبات مقصدها"
+
+#: cgg/apps/basic/versions/v1/api/api.py:332
+msgid "Details of thresholds"
+msgstr "جزئبات آستانه ها"
+
+#: cgg/apps/basic/versions/v1/api/api.py:364
+msgid "Details of a threshold"
+msgstr "جزئبات آستانه"
+
+#: cgg/apps/basic/versions/v1/api/api.py:400
+msgid "Details of filters"
+msgstr "جزئبات فیلترها"
+
+#: cgg/apps/basic/versions/v1/api/api.py:432
+msgid "Details of a filter"
+msgstr "جزئبات فیلتر"
+
+#: cgg/apps/basic/versions/v1/api/api.py:468
+msgid "Details of suppliers"
+msgstr "جزئبات تهیه کنندگان"
+
+#: cgg/apps/basic/versions/v1/api/api.py:500
+msgid "Details of a supplier"
+msgstr "جزئبات تهیه کننده"
+
+#: cgg/apps/basic/versions/v1/api/api.py:536
+msgid "Details of chargers"
+msgstr "جزئبات شارژرها"
+
+#: cgg/apps/basic/versions/v1/api/api.py:568
+msgid "Details of a charger"
+msgstr "جزئبات شارژر"
+
+#: cgg/apps/basic/versions/v1/api/api.py:606
+msgid "Details of rates"
+msgstr "جزئبات نرخ ها"
+
+#: cgg/apps/basic/versions/v1/api/api.py:630
+msgid "A new rate is created successfully"
+msgstr "نرخ جدیدی با موفقیت ایجاد شد"
+
+#: cgg/apps/basic/versions/v1/api/api.py:664
+msgid "Details of a rate"
+msgstr "جزئبات نرخ"
+
+#: cgg/apps/basic/versions/v1/api/api.py:689
+msgid "Rate is removed successfully"
+msgstr "نرخ با موفقیت حذف شد"
+
+#: cgg/apps/basic/versions/v1/api/api.py:727
+msgid "Details of destination rates"
+msgstr "جزئبات نرخ-مقصدها"
+
+#: cgg/apps/basic/versions/v1/api/api.py:751
+msgid "A new destination rate is created successfully"
+msgstr "نرخ-مقصد جدید با موفقیت ایجاد شد"
+
+#: cgg/apps/basic/versions/v1/api/api.py:785
+msgid "Details of destination rate"
+msgstr "جزئبات نرخ-مقصد"
+
+#: cgg/apps/basic/versions/v1/api/api.py:810
+msgid "Destination rate is removed successfully"
+msgstr "نرخ-مقصد با موفقیت حذف شد"
+
+#: cgg/apps/basic/versions/v1/api/api.py:848
+msgid "Details of timings"
+msgstr "جزئبات زمانبندی ها"
+
+#: cgg/apps/basic/versions/v1/api/api.py:872
+msgid "A new timing is created successfully"
+msgstr "زمانبندی جدید با موفقیت ایجاد شد"
+
+#: cgg/apps/basic/versions/v1/api/api.py:906
+msgid "Details of a timing"
+msgstr "جزئبات زمانبندی"
+
+#: cgg/apps/basic/versions/v1/api/api.py:931
+msgid "Timing is removed successfully"
+msgstr "زمانبندی با موفقیت حذف شد"
+
+#: cgg/apps/basic/versions/v1/api/api.py:965
+msgid "Details of a rating plan"
+msgstr "جزئبات طرح"
+
+#: cgg/apps/basic/versions/v1/api/api.py:990
+msgid "Rating plan is removed successfully"
+msgstr "طرح با موفقیت حذف شد"
+
+#: cgg/apps/basic/versions/v1/api/api.py:1028
+msgid "Details of rating plans"
+msgstr "جزئبات طرح ها"
+
+#: cgg/apps/basic/versions/v1/api/api.py:1052
+msgid "A new rating plan is created successfully"
+msgstr "طرح با موفقیت ایجاد شد"
+
+#: cgg/apps/basic/versions/v1/api/api.py:1090
+msgid "Details of rating profiles"
+msgstr "جزئبات پروفایل نرخ ها"
+
+#: cgg/apps/basic/versions/v1/api/api.py:1114
+msgid "A new rating profile is created successfully"
+msgstr "پروفایل نرخ جدید با موفقیت ایجاد شد"
+
+#: cgg/apps/basic/versions/v1/api/api.py:1152
+msgid "Details of a rating profile"
+msgstr "جزئبات  پروفایل نرخ"
+
+#: cgg/apps/basic/versions/v1/api/api.py:1185
+msgid "Rating profile is removed successfully"
+msgstr "پروفایل نرخ با موفیت حذف شد"
+
+#: cgg/apps/basic/versions/v1/api/api.py:1213
+msgid "Tariff plans reloaded successfully"
+msgstr "تعرفه ها با موفقیت بارگذاری شدند"
+
+#: cgg/apps/basic/versions/v1/config/__init__.py:62
+msgid "Subscription"
+msgstr "اشتراک"
+
+#: cgg/apps/basic/versions/v1/config/__init__.py:63
+#: cgg/apps/finance/versions/v1/config/__init__.py:201
+msgid "Operator"
+msgstr "اپراتور"
+
+#: cgg/apps/basic/versions/v1/config/__init__.py:66
+msgid "Account"
+msgstr "حساب"
+
+#: cgg/apps/basic/versions/v1/config/__init__.py:67
+msgid "Inbound"
+msgstr "ورودی"
+
+#: cgg/apps/basic/versions/v1/services/basic.py:105
+#: cgg/apps/finance/versions/v1/services/mis.py:70
+#: cgg/apps/finance/versions/v1/services/mis.py:97
+msgid "Connection error"
+msgstr "خطا در اتصال"
+
+#: cgg/apps/basic/versions/v1/services/basic.py:115
+#: cgg/apps/finance/versions/v1/services/mis.py:72
+#: cgg/apps/finance/versions/v1/services/mis.py:99
+#: cgg/apps/finance/versions/v1/services/trunk.py:60
+msgid "Timeout on connection"
+msgstr "خطایی در اتصال رخ داده است"
+
+#: cgg/apps/basic/versions/v1/services/basic.py:129
+msgid "The id of the request is not configured correctly"
+msgstr "شناسه درخواست به درستی تنظیم نشده است"
+
+#: cgg/apps/basic/versions/v1/services/basic.py:233
+#, python-brace-format
+msgid "Subscription {subscription_code} does not exists"
+msgstr "اشتراک {subscription_code} پیدا نشد"
+
+#: cgg/apps/basic/versions/v1/services/basic.py:239
+msgid "Something went wrong in the request to CGRateS"
+msgstr "خطایی در برقراری ارتباط با سرویس مالی رخ داده است"
+
+#: cgg/apps/basic/versions/v1/services/basic.py:1853
+#: cgg/apps/basic/versions/v1/services/basic.py:1864
+msgid "CDRs from cgrates are invalid"
+msgstr "جزئیات تماس های دریافتی از سرویس صحیح نیستند"
+
+#: cgg/apps/basic/versions/v1/services/basic.py:1874
+msgid "The account has no balance defined"
+msgstr "اعتباری برای این حساب تعریف نشده است"
+
+#: cgg/apps/finance/admin.py:77
+msgid "Check integrity"
+msgstr "بررسی صحت داده"
+
+#: cgg/apps/finance/admin.py:154
+msgid "Redo the job"
+msgstr "اجرای مجدد"
+
+#: cgg/apps/finance/admin.py:568
+msgid "Created from Admin panel"
+msgstr "ایجاد شده در داشبورد مدیریتی"
+
+#: cgg/apps/finance/admin.py:570
+msgid "New interim invoices issued"
+msgstr "صورت‌حساب مصرفی میان دوره با موفقیت ایجاد شد"
+
+#: cgg/apps/finance/admin.py:580
+msgid "Add new interim invoice"
+msgstr "اضافه کردن صورت‌حساب مصرفی میان دوره"
+
+#: cgg/apps/finance/admin.py:585
+msgid "Subscriptions' locks are released"
+msgstr "قفل صدور صدورت‌حساب آزاد شد"
+
+#: cgg/apps/finance/admin.py:587
+msgid "Release invoice lock"
+msgstr "آزادسازی قفل صورت‌حساب"
+
+#: cgg/apps/finance/admin.py:595
+msgid "Subscription's type is renewed"
+msgstr "نوع اشتراک با موفقیت بروز شد"
+
+#: cgg/apps/finance/admin.py:599
+#: cgg/apps/finance/versions/v1/config/__init__.py:354
+msgid "Renew subscription's type"
+msgstr "بروزرسانی نوع اشتراک"
+
+#: cgg/apps/finance/admin.py:607
+msgid "Branches renewed"
+msgstr "شعبه با موفقیت بروزرسانی شد"
+
+#: cgg/apps/finance/admin.py:611
+msgid "Renew subscription's branch"
+msgstr "بروزرسانی شعبه اشتراک"
+
+#: cgg/apps/finance/admin.py:626
+msgid "Not defined"
+msgstr "تعریف نشده"
+
+#: cgg/apps/finance/admin.py:1413
+msgid "Can not safe delete more than one invoice at a time"
+msgstr ""
+"امکان حذف امن بیشتر از یک صورت‌حساب مصرفی به صورت همزمان وجود ندارد. لطفا فقط "
+"یک صورت‌حساب را انتخاب کنید"
+
+#: cgg/apps/finance/admin.py:1422
+msgid "The invoice is safely deleted"
+msgstr "صورت‌حساب مصرفی با موفقیت حذف شد"
+
+#: cgg/apps/finance/admin.py:1427
+msgid "Safe delete invoice"
+msgstr "حذف امن صورت‌حساب"
+
+#: cgg/apps/finance/management/commands/finance_periodic_invoice.py:112
+#: cgg/apps/finance/management/commands/finance_periodic_invoice.py:128
+msgid "This invoice a generated automatically at the end of the period"
+msgstr "این صورت‌حساب مصرفی به صورت خودکار و در پایان دوره صادر شده است"
+
+#: cgg/apps/finance/models.py:1127
+msgid "Version 1"
+msgstr "نسخه 1"
+
+#: cgg/apps/finance/versions/v1/api/api.py:84
+msgid "Details of customers"
+msgstr "جزئیات کاربران"
+
+#: cgg/apps/finance/versions/v1/api/api.py:101
+msgid "A new customer is created successfully"
+msgstr "کاربر جدیدی با موفقیت ایجاد شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:122
+msgid "Details of a customer"
+msgstr "جزئیات کاربر"
+
+#: cgg/apps/finance/versions/v1/api/api.py:150
+#: cgg/apps/finance/versions/v1/api/api.py:174
+msgid "Details of subscriptions"
+msgstr "جزئیات اشتراک"
+
+#: cgg/apps/finance/versions/v1/api/api.py:194
+msgid "A new subscription is created successfully"
+msgstr "اشتراک جدید با موفقیت ایجاد شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:219
+msgid "Details of a subscription"
+msgstr "جزئیات اشتراک"
+
+#: cgg/apps/finance/versions/v1/api/api.py:245
+msgid "Used and base balance are updated successfully"
+msgstr "میزان مصرفی و پایه اشتراک با موفقیت بروزرسانی شدند"
+
+#: cgg/apps/finance/versions/v1/api/api.py:301
+msgid "Subscription availability status"
+msgstr "وضعیت فعال بودن اشتراک"
+
+#: cgg/apps/finance/versions/v1/api/api.py:330
+msgid "Subscription availability changed successfully"
+msgstr "وضعیت فعال بودن اشتراک با موفقیت بروزرسانی شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:355
+msgid ""
+"This invoice is generated automatically before deallocating the subscription"
+msgstr ""
+"این صورت‌حساب مصرفی به صورت خودکار و همزمان با جمع‌آوری اشتراک صادر شده است"
+
+#: cgg/apps/finance/versions/v1/api/api.py:374
+msgid "Subscription deallocate successfully"
+msgstr "اشتراک با موفقیت غیرفعال شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:407
+msgid "Subscription's balance debited successfully"
+msgstr "اعتبار اشتراک با موفقیت کسر شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:440
+msgid "Subscription's balance added successfully"
+msgstr "اعتبار سرویس با موفقیت کسر شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:471
+msgid "Subscription converted to postpaid successfully"
+msgstr "مشترک با موفقیت به دائمی تبدیل شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:502
+msgid "Customer's credit increased successfully"
+msgstr "اعتبار کیف پول سرویس با موفقیت افزایش یافت"
+
+#: cgg/apps/finance/versions/v1/api/api.py:534
+msgid "Subscription's base balance changed successfully"
+msgstr "سقف مصرف اشتراک با موفقیت تغییر یافت"
+
+#: cgg/apps/finance/versions/v1/api/api.py:563
+msgid "Details of a package"
+msgstr "جزئبات بسته مکالمه"
+
+#: cgg/apps/finance/versions/v1/api/api.py:587
+msgid "Package updated successfully"
+msgstr "بسته مکالمه با موفقیت بروزرسانی شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:636
+msgid "All packages"
+msgstr "همه بسته های افزایشی"
+
+#: cgg/apps/finance/versions/v1/api/api.py:660
+msgid "A new package is created successfully"
+msgstr "بسته مکالمه با موفقیت ایجاد شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:717
+msgid "Details of invoices"
+msgstr "جزئیات صورت‌حساب های مصرفی"
+
+#: cgg/apps/finance/versions/v1/api/api.py:727
+msgid "Created on admin's demand"
+msgstr "ایجاد شده به درخواست شرکت"
+
+#: cgg/apps/finance/versions/v1/api/api.py:730
+msgid "Created on customer's demand"
+msgstr "ایجاد شده به درخواست کاربر"
+
+#: cgg/apps/finance/versions/v1/api/api.py:743
+msgid "A new interim invoice will be created if possible"
+msgstr "در صورت امکان صورت‌حساب مصرفی میان‌دوره جدیدی ایجاد خواهد شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:779
+msgid "Details of an invoice"
+msgstr "جزئیات صورت‌حساب مصرفی"
+
+#: cgg/apps/finance/versions/v1/api/api.py:802
+msgid "Migration of invoices"
+msgstr "مهاجرت صورت‌حساب های مصرفی"
+
+#: cgg/apps/finance/versions/v1/api/api.py:856
+msgid "Details of base balance invoices"
+msgstr "جزئیات صورت‌حساب های سقف مصرف"
+
+#: cgg/apps/finance/versions/v1/api/api.py:877
+msgid "A new base balance invoice is created successfully"
+msgstr "صورت‌حساب سقف مصرف با موفقیت ایجاد شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:913
+msgid "Details of a base balance invoice"
+msgstr "جزئیات صورت‌حساب سقف مصرف"
+
+#: cgg/apps/finance/versions/v1/api/api.py:937
+msgid "Migration of base balance invoices"
+msgstr "مهاجرت صورت‌حساب های سقف مصرف"
+
+#: cgg/apps/finance/versions/v1/api/api.py:991
+msgid "Details of package invoices"
+msgstr "جزئیات صورت‌حساب بسته مکالمه"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1012
+msgid "A new package invoice is created successfully"
+msgstr "صورت‌حساب بسته مکالمه جدید با موفقیت ایجاد شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1045
+msgid "Details of a package invoice"
+msgstr "جزئیات صورت‌حساب بسته مکالمه"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1073
+msgid "Package invoice is updated successfully"
+msgstr "صورت‌حساب بسته مکالمه جدید با موفقیت بروزرسانی شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1130
+msgid "Details of credit invoices"
+msgstr "جزئیات صورت‌حساب های کیف پول"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1151
+msgid "A new credit invoice is created successfully"
+msgstr "صورت‌حساب کیف پول جدید با موفقیت ایجاد شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1187
+msgid "Details of a credit invoice"
+msgstr "جزئیات صورت‌حساب کیف پول"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1264
+msgid "Details of payments"
+msgstr "جزئیات تراکنش ها"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1292
+msgid "A new payment is created successfully"
+msgstr "تراکنش جدیدی با موفقیت ایجاد شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1325
+msgid "Details of a payment"
+msgstr "جزئیات تراکنش"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1353
+msgid "Payment updated successfully"
+msgstr "تراکنش جدیدی با موفقیت بروزرسانی شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1383
+msgid "Payment approval updated successfully"
+msgstr "وضعیت تراکنش با موفقیت بروزرسانی شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1404
+msgid "Details of branches"
+msgstr "جزئیات شعب"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1421
+msgid "A new branch is created successfully"
+msgstr "شعبه جدیدی با موفقیت ایجاد شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1442
+msgid "Details of a branch"
+msgstr "جزئیات شعب"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1462
+msgid "Branch updated successfully"
+msgstr "شعبه با موفقیت بروزرسانی شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1531
+msgid "A new destination is created successfully"
+msgstr "مقصد جدیدی با موفقیت ایجاد شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1559
+msgid "Details of destinations by names"
+msgstr "جزئیات مقاصد به تفکیک نام"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1588
+msgid "Details of a destination"
+msgstr "جزئیات مقصد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1635
+msgid "Destination updated successfully"
+msgstr "مقصد با موفقیت بروزرسانی شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1658
+msgid "Details of operators"
+msgstr "جزئیات اپراتورها"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1677
+msgid "A new operator is created successfully"
+msgstr "اپراتور جدیدی با موفقیت ایجاد شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1700
+msgid "Details of an operator"
+msgstr "جزئیات اپراتور"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1720
+msgid "Operator updated successfully"
+msgstr "اپراتور با موفقیت بروزرسانی شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1779
+msgid "Details of profits"
+msgstr "جزئیات سودها"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1798
+msgid "A new profit is created successfully"
+msgstr "سود جدیدی با موفقیت ایجاد شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1821
+msgid "Details of a profit"
+msgstr "جزئیات سود"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1841
+msgid "Profit is updated successfully"
+msgstr "وضعیت سود با موفقیت بروزرسانی شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1857
+msgid "A new expiry notification received from CGRateS"
+msgstr "هشدار جدید برای انقضای بسته از سرویس دریافت شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1875
+msgid "A new notification received from CGRateS"
+msgstr "هشدار جدید از سرویس دریافت شد"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1896
+msgid "Details of Runtime Configs"
+msgstr "جزئبات تنظیمات"
+
+#: cgg/apps/finance/versions/v1/api/api.py:1913
+msgid "Runtime Configs updated successfully"
+msgstr "تنظیمات با موفقیت بروزرسانی شدند"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:167
+#: cgg/apps/finance/versions/v1/config/__init__.py:332
+msgid "Default"
+msgstr "پیش فرض"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:170
+msgid "1 Day"
+msgstr "۱ روزه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:171
+msgid "3 Days"
+msgstr "۳ روزه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:172
+msgid "5 Days"
+msgstr "۵ روزه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:173
+msgid "7 Days"
+msgstr "۷ روزه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:174
+msgid "15 Days"
+msgstr "۱۵ روزه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:175
+msgid "30 Days"
+msgstr "۳۰ روزه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:176
+msgid "45 Days"
+msgstr "۴۵ روزه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:177
+msgid "60 Days"
+msgstr "۶۰ روزه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:178
+msgid "90 Days"
+msgstr "۹۰ روزه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:179
+msgid "120 Days"
+msgstr "۱۲۰ روزه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:180
+msgid "180 Days"
+msgstr "۱۸۰ روزه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:181
+msgid "365 Days"
+msgstr "۳۶۵ روزه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:195
+msgid "Mobile national"
+msgstr "همراه کشوری"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:196
+msgid "Landline national"
+msgstr "ثابت کشوری"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:197
+msgid "Mobile International"
+msgstr "همراه بین المللی"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:198
+msgid "Landline International"
+msgstr "ثابت بین المللی"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:202
+msgid "Branch"
+msgstr "شعبه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:209
+#: cgg/apps/finance/versions/v1/config/__init__.py:245
+#: cgg/apps/finance/versions/v1/config/__init__.py:267
+msgid "Pending"
+msgstr "در انتظار پرداخت"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:210
+msgid "Received"
+msgstr "دریافت شده"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:211
+msgid "Revoked"
+msgstr "منقضی شده"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:214
+msgid "Seconds"
+msgstr "ثانیه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:215
+msgid "Minutes"
+msgstr "دقیقه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:220 cgg/core/tools.py:59
+msgid "Postpaid"
+msgstr "دائمی"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:221 cgg/core/tools.py:57
+msgid "Prepaid"
+msgstr "اعتباری"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:222
+msgid "Unlimited"
+msgstr "نامحدود"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:225
+msgid "Normal"
+msgstr "عادی/درخواست"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:226
+msgid "Violation"
+msgstr "فنی/تخلف"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:237
+msgid "No warning"
+msgstr "بدون هشدار"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:238
+msgid "First warning"
+msgstr "هشدار اول"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:239
+msgid "Second warning"
+msgstr "هشدار دوم"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:240
+msgid "Third warning"
+msgstr "هشدار سوم"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:241
+msgid "Fourth warning"
+msgstr "هشدار چهارم"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:244
+msgid "Ready"
+msgstr "آماده پرداخت"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:246
+#: cgg/apps/finance/versions/v1/config/__init__.py:268
+msgid "Success"
+msgstr "موفقیت آمیز"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:247
+msgid "Revoke"
+msgstr "منقضی شده"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:250
+msgid "Periodic"
+msgstr "دوره ای"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:251
+msgid "Interim"
+msgstr "میان دوره"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:256 cgg/core/tools.py:71
+msgid "Increase"
+msgstr "افزایشی"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:257 cgg/core/tools.py:69
+msgid "Decrease"
+msgstr "کاهشی"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:260 cgg/core/tools.py:65
+msgid "Invoice"
+msgstr "صورت‌حساب مصرفی"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:261 cgg/core/tools.py:61
+msgid "Base balance invoice"
+msgstr "صورت‌حساب سقف مصرف"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:262 cgg/core/tools.py:67
+msgid "Package invoice"
+msgstr "صورت‌حساب بسته مکالمه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:269
+msgid "Failed"
+msgstr "ناموفق"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:277
+msgid "Issue new interim invoice in hours"
+msgstr "بازه زمانی مجاز برای صدور صورت‌حساب مصرفی میان دوره به ساعت"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:280
+msgid "Number of periods for due date in invoices"
+msgstr "تعداد دوره‌های مهلت پرداخت صورت‌حساب‌های مصرفی"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:284
+msgid "Corporate state prefixes"
+msgstr "پیش شماره های استانی شرکت"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:288
+msgid "Corporate national prefixes"
+msgstr "پیش شماره های کشوری شرکت"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:292
+msgid "Discount static value on invoices"
+msgstr "مقدار ثابت تخفیف روی صورت‌حساب های مصرفی"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:296
+msgid "Discount percent on invoices"
+msgstr "درصد تخفیف روی صورت‌حساب های مصرفی"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:300
+msgid "Due date for deallocation of subscription"
+msgstr "تعداد روزهای مهلت پرداخت برای جمع آوری سرویس"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:304
+msgid "Emergency numbers"
+msgstr "شماره های اضطراری"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:308
+msgid "Payment cool down in minutes"
+msgstr "دقایق مجاز بین پرداخت ها"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:312
+msgid "Black list deallocated numbers in days"
+msgstr "تعداد روزهای قرار دادن شماره‌های جمع آوری شده در لیست سیاه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:336
+msgid "Country"
+msgstr "کشور"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:340
+msgid "Emergency"
+msgstr "اضطراری"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:345
+#: cgg/apps/finance/versions/v1/config/__init__.py:365
+msgid "Periodic invoices"
+msgstr "صورت‌حساب های مصرفی دوره ای"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:346
+msgid "Due date"
+msgstr "مهلت پرداخت"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:347
+msgid "Failed jobs"
+msgstr "کارهای ناموفق"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:348
+msgid "Renew branches"
+msgstr "بروزرسانی شعب"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:349
+msgid "Import destinations"
+msgstr "وارد کردن مقصدها"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:350
+msgid "Import tariffs"
+msgstr "وارد کردن طرح نرخ"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:351
+msgid "Initialize CGRateS"
+msgstr "بارگذاری اولیه سرویس"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:352
+msgid "Import credits from Excel"
+msgstr "وارد کردن اعتبارها از اکسل"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:353
+msgid "Import branches"
+msgstr "وارد کردن شعب"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:355
+msgid "Expire packages"
+msgstr "منقضی کردن بسته ها"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:356
+msgid "Integrity check"
+msgstr "بررسی صحت داده"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:357
+msgid "Update runtime configs"
+msgstr "بروزرسانی تنظیمات"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:358
+msgid "Check deallocation"
+msgstr "بررسی جمع آوری اشتراک"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:359
+msgid "Clean api requests"
+msgstr "پاک‌سازی پایگاه داده لاگ"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:360
+msgid "Check sessions"
+msgstr "بررسی نشست‌های تماس"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:366
+msgid "Notify trunk"
+msgstr "هشدار به سرویس ترانک"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:367
+msgid "Renew branch"
+msgstr "بروزرسانی شعبه"
+
+#: cgg/apps/finance/versions/v1/config/__init__.py:368
+msgid "Renew subscription type"
+msgstr "بروزرسانی نوع اشتراک"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:78
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:242
+msgid "Can not be empty or less than zero"
+msgstr "مقدار نمی تواند خالی یا کوچکتر مساوی صفر باشد"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:100
+msgid ""
+"This base balance invoice is generated automatically to decrease "
+"subscription's base balance"
+msgstr "این صورت‌حساب سقف مصرف به صورت خودکار برای کاهش سقف مصرف صادر شده است"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:151
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:301
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:176
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:174
+#: cgg/apps/finance/versions/v1/serializers/payment.py:284
+#: cgg/apps/finance/versions/v1/serializers/profit.py:201
+msgid "id"
+msgstr "شناسه"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:152
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:307
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:179
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:177
+msgid "tracking code"
+msgstr "کد رهگیری"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:155
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:304
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:182
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:180
+#: cgg/apps/finance/versions/v1/serializers/payment.py:290
+msgid "prime code"
+msgstr "کد پرایم"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:156
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:310
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:185
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:183
+#: cgg/apps/finance/versions/v1/serializers/payment.py:293
+msgid "subscription code"
+msgstr "کد اشتراک"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:157
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:313
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:188
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:186
+#: cgg/apps/finance/versions/v1/serializers/payment.py:296
+msgid "number"
+msgstr "سرشماره"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:158
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:301
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:189
+#: cgg/apps/finance/versions/v1/serializers/payment.py:305
+msgid "credit invoice id"
+msgstr "شناسه صورت‌حساب کیف پول"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:161
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:325
+msgid "operation type"
+msgstr " نوع عملیات"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:164
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:316
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:288
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:192
+#: cgg/apps/finance/versions/v1/serializers/payment.py:302
+#: cgg/apps/finance/versions/v1/serializers/profit.py:239
+msgid "status code"
+msgstr "وضعیت"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:165
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:328
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:285
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:198
+msgid "total cost"
+msgstr "مبلغ کل"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:168
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:331
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:298
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:223
+msgid "description"
+msgstr "توضیحات"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:169
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:334
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:310
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:226
+#: cgg/apps/finance/versions/v1/serializers/payment.py:314
+#: cgg/apps/finance/versions/v1/serializers/profit.py:243
+msgid "created at"
+msgstr "تاریخ ایجاد"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:172
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:337
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:316
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:229
+#: cgg/apps/finance/versions/v1/serializers/payment.py:320
+#: cgg/apps/finance/versions/v1/serializers/profit.py:240
+msgid "updated status at"
+msgstr "تاریخ بروزرسانی وضعیت"
+
+#: cgg/apps/finance/versions/v1/serializers/base_balance_invoice.py:175
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:340
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:319
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:232
+msgid "paid at"
+msgstr "تاریخ پرداخت"
+
+#: cgg/apps/finance/versions/v1/serializers/branch.py:41
+msgid "A branch with this branch code is already exists"
+msgstr "شعبه ای با این کد وجود دارد"
+
+#: cgg/apps/finance/versions/v1/serializers/branch.py:72
+msgid "Field is required to create new branch"
+msgstr "این فیلد برای ساخت شعبه ضروری است"
+
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:173
+msgid "This invoice is already payed"
+msgstr "این صورت‌حساب مصرفی پرداخت شده است"
+
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:174
+msgid "This invoice is already revoked"
+msgstr "این صورت‌حساب مصرفی منقضی شده است"
+
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:179
+msgid "This base balance invoice is already payed"
+msgstr "این صورت‌حساب سقف مصرف پرداخت شده است."
+
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:182
+msgid "This base balance invoice is already revoked"
+msgstr "این صورت‌حساب سقف مصرف منقضی شده است"
+
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:187
+msgid "This package invoice is already payed"
+msgstr "این صورت‌حساب بسته مکالمه پرداخت شده است"
+
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:190
+msgid "This package invoice is already revoked"
+msgstr "این صورت‌حساب بسته مکالمه منقضی شده است"
+
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:212
+msgid "There is no need for a hybrid payment. Credit is already enough!"
+msgstr "با توجه به میزان اعتبار کیف پول نیازی به پرداخت ترکیبی وجود ندارد"
+
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:319
+#: cgg/apps/finance/versions/v1/serializers/payment.py:308
+msgid "used for"
+msgstr "استفاده شده برای"
+
+#: cgg/apps/finance/versions/v1/serializers/credit_invoice.py:322
+msgid "used for id"
+msgstr "شناسه صورت‌حساب مرتبط"
+
+#: cgg/apps/finance/versions/v1/serializers/customer.py:33
+msgid "A customer with this customer code is already exists"
+msgstr "کاربری با این کد وجود دارد"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:191
+msgid "period count"
+msgstr "شماره دوره"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:194
+msgid "tax percent"
+msgstr "درصد مالیات"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:197
+msgid "tax cost"
+msgstr "مبلغ مالیات"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:200
+msgid "discount"
+msgstr "تخفیف"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:203
+msgid "discount description"
+msgstr "توضیحات تخفیف"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:206
+msgid "debt"
+msgstr "بدهی"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:209
+msgid "subscription fee"
+msgstr "آبونمان"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:212
+msgid "landlines corporate cost"
+msgstr "هزینه ثابت درون شبکه ای"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:215
+msgid "landlines corporate usage"
+msgstr "مصرف ثابت درون شبکه ای"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:219
+msgid "landlines local cost"
+msgstr "هزینه ثابت درون استانی"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:222
+msgid "landlines local usage"
+msgstr "مصرف ثابت درون استانی"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:225
+msgid "landlines long distance cost"
+msgstr "هزینه ثابت برون استانی"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:228
+msgid "landlines long distance usage"
+msgstr "مصرف ثابت برون استانی"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:232
+msgid "mobile usage"
+msgstr "مصرف همراه"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:235
+msgid "mobile cost"
+msgstr "هزینه همراه"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:238
+msgid "international usage"
+msgstr "مصرف بین المللی"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:241
+msgid "international cost"
+msgstr "هزینه بین المللی"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:244
+msgid "landlines corporate cost prepaid"
+msgstr "هزینه ثابت درون شبکه ای (بسته مکالمه)"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:247
+msgid "landlines corporate usage prepaid"
+msgstr "مصرف ثابت درون شبکه ای (بسته مکالمه)"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:251
+msgid "landlines local cost prepaid"
+msgstr "هزینه ثابت درون استانی (بسته مکالمه)"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:254
+msgid "landlines local usage prepaid"
+msgstr "مصرف ثابت درون استانی (بسته مکالمه)"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:258
+msgid "landlines long distance cost prepaid"
+msgstr "هزینه ثابت برون استانی (بسته مکالمه)"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:262
+msgid "landlines long distance usage prepaid"
+msgstr "مصرف ثابت برون استانی (بسته مکالمه)"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:266
+msgid "mobile usage prepaid"
+msgstr "مصرف همراه (بسته مکالمه)"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:269
+msgid "mobile cost prepaid"
+msgstr "هزینه همراه (بسته مکالمه)"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:272
+msgid "international usage prepaid"
+msgstr "مصرف بین المللی (بسته مکالمه)"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:276
+msgid "international cost prepaid"
+msgstr "هزینه بین المللی (بسته مکالمه)"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:279
+#: cgg/apps/finance/versions/v1/serializers/profit.py:234
+msgid "total usage"
+msgstr "مصرف کل"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:282
+msgid "total usage cost"
+msgstr "هزینه کل مصرفی"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:291
+msgid "on demand"
+msgstr "به درخواست مشتری"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:295
+msgid "invoice type"
+msgstr "نوع صورت‌حساب"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:304
+#: cgg/apps/finance/versions/v1/serializers/profit.py:237
+msgid "from date"
+msgstr "از تاریخ"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:307
+#: cgg/apps/finance/versions/v1/serializers/profit.py:238
+msgid "to date"
+msgstr "تا تاریخ"
+
+#: cgg/apps/finance/versions/v1/serializers/invoice.py:313
+msgid "due date"
+msgstr "مهلت پرداخت"
+
+#: cgg/apps/finance/versions/v1/serializers/operator.py:99
+msgid "A operator with this code is already exists"
+msgstr "اپراتوری با این کد وجود دارد"
+
+#: cgg/apps/finance/versions/v1/serializers/operator.py:106
+#: cgg/apps/finance/versions/v1/serializers/profit.py:148
+#: cgg/core/error_messages.py:80
+msgid "This field is required"
+msgstr "این فیلد ضروری است"
+
+#: cgg/apps/finance/versions/v1/serializers/operator.py:132
+msgid "Required field to create new operator"
+msgstr "این فیلد ضروری است"
+
+#: cgg/apps/finance/versions/v1/serializers/package.py:216
+msgid "This code is exists, choose another"
+msgstr "این کد وجود دارد. لطفا کد دیگری وارد کنید"
+
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:78
+msgid "Can not update an expired invoice"
+msgstr "امکان بروزرسانی صورت‌حساب با تاریخ مصرف به پایان رسیده، وجود ندارد"
+
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:83
+msgid "Can not update a revoked invoice"
+msgstr "امکان بروزرسانی صورت‌حساب منقضی شده وجود ندارد"
+
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:120
+msgid "The package does not exists"
+msgstr "بسته مکالمه مورد نظر پیدا نشد"
+
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:195
+msgid "package id"
+msgstr "شناسه بسته"
+
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:201
+msgid "total value"
+msgstr "ارزش کل"
+
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:204
+msgid "expired value"
+msgstr "مبلغ منقضی شده"
+
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:207
+msgid "is active"
+msgstr "فعال"
+
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:211
+msgid "is expired"
+msgstr "منقضی شده"
+
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:215
+msgid "auto renew"
+msgstr "تمدید خودکار"
+
+#: cgg/apps/finance/versions/v1/serializers/package_invoice.py:219
+msgid "expired at"
+msgstr "تاریخ انقضا"
+
+#: cgg/apps/finance/versions/v1/serializers/payment.py:107
+msgid "Current state and requested one are the same"
+msgstr "وضعیت فعلی مشابه وضعیت درخواست شده است"
+
+#: cgg/apps/finance/versions/v1/serializers/payment.py:129
+msgid "Can't change from current state"
+msgstr "وضعیت فعلی قابل تغییر نیست"
+
+#: cgg/apps/finance/versions/v1/serializers/payment.py:134
+msgid "Only 'status_code' and 'extra_data' can be updated"
+msgstr "تنها فیلدهای وضعیت و داده های اضافی می توانند بروزرسانی شوند"
+
+#: cgg/apps/finance/versions/v1/serializers/payment.py:153
+msgid "This credit invoice is revoked"
+msgstr "این صورت‌حساب کیف پول منقضی شده است"
+
+#: cgg/apps/finance/versions/v1/serializers/payment.py:157
+msgid "This credit invoice has a pending payment"
+msgstr "این صورت‌حساب کیف پول یک پرداخت در انتظار تایید دارد"
+
+#: cgg/apps/finance/versions/v1/serializers/payment.py:161
+msgid "This credit invoice is already payed"
+msgstr "این صورت‌حساب کیف پول پرداخت شده است"
+
+#: cgg/apps/finance/versions/v1/serializers/payment.py:173
+msgid "Can not create an offline payment without attachments"
+msgstr "بدون فایل امکان ایجاد پرداخت آفلاین وجود ندارد"
+
+#: cgg/apps/finance/versions/v1/serializers/payment.py:180
+msgid "Offline payment only can be used for credit invoices"
+msgstr "پرداخت آفلاین تنها برای افزایش موجودی کیف پول قابل استفاده است"
+
+#: cgg/apps/finance/versions/v1/serializers/payment.py:287
+msgid "related tracking code"
+msgstr "کد رهگیری مرتبط"
+
+#: cgg/apps/finance/versions/v1/serializers/payment.py:299
+msgid "amount"
+msgstr "مبلغ"
+
+#: cgg/apps/finance/versions/v1/serializers/payment.py:311
+msgid "gateway"
+msgstr "درگاه"
+
+#: cgg/apps/finance/versions/v1/serializers/payment.py:317
+#: cgg/apps/finance/versions/v1/serializers/profit.py:244
+msgid "updated at"
+msgstr "تاریخ بروزرسانی"
+
+#: cgg/apps/finance/versions/v1/serializers/profit.py:32
+#: cgg/apps/finance/versions/v1/serializers/profit.py:41
+msgid "Parse error for timestamp"
+msgstr "فرمت زمان سنج معتبر نیست"
+
+#: cgg/apps/finance/versions/v1/serializers/profit.py:46
+#: cgg/core/error_messages.py:91
+msgid "Start date can not be greater than end date"
+msgstr "تاریخ شروع نباید بزرگتر از تاریخ پایان باشد"
+
+#: cgg/apps/finance/versions/v1/serializers/profit.py:202
+msgid "operator id"
+msgstr "شناسه اپراتور"
+
+#: cgg/apps/finance/versions/v1/serializers/profit.py:203
+msgid "operator code"
+msgstr "نوع عملیات"
+
+#: cgg/apps/finance/versions/v1/serializers/profit.py:204
+msgid "inbound used percent"
+msgstr "درصد استفاده شده تماس ورودی"
+
+#: cgg/apps/finance/versions/v1/serializers/profit.py:207
+msgid "outbound used percent"
+msgstr "درصد استفاده شده تماس خروجی"
+
+#: cgg/apps/finance/versions/v1/serializers/profit.py:210
+msgid "inbound usage"
+msgstr "مصرف تماس ورودی"
+
+#: cgg/apps/finance/versions/v1/serializers/profit.py:213
+msgid "outbound usage"
+msgstr "مصرف تماس خروجی"
+
+#: cgg/apps/finance/versions/v1/serializers/profit.py:216
+msgid "inbound cost first part"
+msgstr "بخش اول هزینه ورودی"
+
+#: cgg/apps/finance/versions/v1/serializers/profit.py:219
+msgid "inbound cost second part"
+msgstr "بخش دوم هزینه ورودی"
+
+#: cgg/apps/finance/versions/v1/serializers/profit.py:222
+msgid "outbound cost first part"
+msgstr "بخش اول هزینه خروجی"
+
+#: cgg/apps/finance/versions/v1/serializers/profit.py:225
+msgid "outbound cost second part"
+msgstr "بخش دوم هزینه خروجی"
+
+#: cgg/apps/finance/versions/v1/serializers/profit.py:228
+msgid "total cost inbound"
+msgstr "مبلغ کل تماس ورودی"
+
+#: cgg/apps/finance/versions/v1/serializers/profit.py:231
+msgid "total cost outbound"
+msgstr "مبلغ کل تماس خروجی"
+
+#: cgg/apps/finance/versions/v1/serializers/subscription.py:221
+msgid "A subscription with this subscription code is already exists"
+msgstr "اشتراکی با کد وجود دارد"
+
+#: cgg/apps/finance/versions/v1/serializers/subscription.py:231
+msgid "An active subscription with this number is already exists"
+msgstr "اشتراک فعالی با این شماره وجود دارد"
+
+#: cgg/apps/finance/versions/v1/services/base_balance_invoice.py:204
+#: cgg/apps/finance/versions/v1/services/subscription.py:1420
+msgid ""
+"This credit invoice is generated automatically for increasing customer's "
+"credit after decreasing it's base balance"
+msgstr ""
+"این صورت‌حساب کیف پول به صورت خودکار برای افزایش اعتبار کیف پول همزمان با "
+"کاهش اعتبار سقف مصرف صادر شده است"
+
+#: cgg/apps/finance/versions/v1/services/branch.py:128
+msgid "More than one branch is found with this prefix"
+msgstr "بیش از یک شعبه برای این پیش شماره وجود دارد"
+
+#: cgg/apps/finance/versions/v1/services/branch.py:211
+msgid "Default branches can not be updated directly"
+msgstr "امکان بروزرسانی مستقیم شعبه های پیش فرض وجود ندارد"
+
+#: cgg/apps/finance/versions/v1/services/branch.py:404
+msgid "Default branches can not be removed"
+msgstr "امکان حذف شعبه های پیش فرض وجود ندارد"
+
+#: cgg/apps/finance/versions/v1/services/cgrates_notify.py:84
+msgid ""
+"This invoice a generated automatically because of 100 percent usage of base "
+"balance"
+msgstr ""
+"این صورت‌حساب مصرفی به صورت خودکار و به دلیل مصرف صد درصدی از اعتبار پایه "
+"صادر شده است"
+
+#: cgg/apps/finance/versions/v1/services/cgrates_notify.py:121
+msgid ""
+"This invoice a generated automatically because of 80 percent usage of base "
+"balance"
+msgstr ""
+"این صورت‌حساب مصرفی به صورت خودکار و به دلیل مصرف هشتاد درصدی از اعتبار پایه "
+"صادر شده است"
+
+#: cgg/apps/finance/versions/v1/services/common.py:542
+msgid "Not a valid operation type"
+msgstr "نوع عملیات معتبر نیست"
+
+#: cgg/apps/finance/versions/v1/services/common.py:1088
+msgid "Subscription id is not provided"
+msgstr "شناسه اشتراک ارسال نشده است"
+
+#: cgg/apps/finance/versions/v1/services/common.py:1100
+msgid "Subscription does not belongs to this customer or is not allocated"
+msgstr "اشتراک متعلق به این کاربر نبوده یا غیرفعال است"
+
+#: cgg/apps/finance/versions/v1/services/common.py:1115
+#: cgg/core/error_messages.py:46
+msgid "Subscription does not exists or is not allocated"
+msgstr "اشتراک پیدا نشد یا غیرفعال است"
+
+#: cgg/apps/finance/versions/v1/services/credit_invoice.py:221
+msgid ""
+"This credit invoice is generated automatically to pay for an existing invoice"
+msgstr ""
+"این صورت‌حساب کیف پول به صورت خودکار برای پرداخت یک صورت‌حساب موجود، صادر شده "
+"است"
+
+#: cgg/apps/finance/versions/v1/services/customer.py:214
+msgid ""
+"This credit invoice is generated automatically for increasing customer's "
+"credit without payment"
+msgstr ""
+"این صورت‌حساب کیف پول به صورت خودکار برای افزایش اعتبار کیف پول (بدون "
+"پرداخت)، صادر شده است"
+
+#: cgg/apps/finance/versions/v1/services/destination.py:532
+msgid "Can not add new destination due to CGRateS Service problem"
+msgstr "خطایی در ایجاد پروفایل مقصد رخ داده است"
+
+#: cgg/apps/finance/versions/v1/services/destination.py:579
+msgid "Can not remove destination due to CGRateS Service problem"
+msgstr "خطایی در حذف پروفایل مقصد رخ داده است"
+
+#: cgg/apps/finance/versions/v1/services/invoice.py:99
+msgid "Deallocation of subscription"
+msgstr "جمع آوری اشتراک"
+
+#: cgg/apps/finance/versions/v1/services/invoice.py:101
+msgid "Eighty percent usage"
+msgstr "مصرف هشتاد درصدی از اعتبار پایه"
+
+#: cgg/apps/finance/versions/v1/services/invoice.py:103
+msgid "Max usage"
+msgstr "مصرف صددرصدی اعتبار پایه"
+
+#: cgg/apps/finance/versions/v1/services/invoice.py:105
+msgid "Your request"
+msgstr "درخواست شما"
+
+#: cgg/apps/finance/versions/v1/services/invoice.py:106
+msgid "Nexfon support request"
+msgstr "درخواست پشتیبانی نکسفون"
+
+#: cgg/apps/finance/versions/v1/services/invoice.py:687
+msgid "Rial"
+msgstr "ریال"
+
+#: cgg/apps/finance/versions/v1/services/invoice.py:689
+msgid "subtracted for this invoice"
+msgstr "از این صورت‌حساب کسر شد"
+
+#: cgg/apps/finance/versions/v1/services/invoice.py:759
+msgid ""
+"Previous requested invoice is already active, can not request another "
+"interim invoice for now!"
+msgstr ""
+"صورت‌حساب مصرفی درخواست شده قبلی در حال حاضر فعال است و امکان صدور صورت‌حساب "
+"مصرفی دیگری وجود ندارد"
+
+#: cgg/apps/finance/versions/v1/services/invoice.py:767
+msgid "Can not issue another interim invoice for now!"
+msgstr "در حال حاضر امکان صدور صورت‌حساب مصرفی دیگری وجود ندارد"
+
+#: cgg/apps/finance/versions/v1/services/invoice.py:890
+msgid "Invalid operation in Decimal or Integer fields"
+msgstr "خطایی در محسابات عددی رخ داده است"
+
+#: cgg/apps/finance/versions/v1/services/invoice.py:936
+msgid ""
+"Previous requested invoice is not processed yet, please try again in a while"
+msgstr ""
+"صورت‌حساب مصرفی درخواست شده قبلی در حال پردازش است. لطفا در دقایق آتی مجددا "
+"تلاش کنید."
+
+#: cgg/apps/finance/versions/v1/services/invoice.py:1135
+msgid ""
+"This credit invoice is generated automatically to pay for an invoice with "
+"zero total cost"
+msgstr ""
+"این صورت‌حساب کیف پول به صورت خودکار برای پرداخت یک صورت‌حساب موجود با مبلغ "
+"صفر، صادر شده است"
+
+#: cgg/apps/finance/versions/v1/services/invoice.py:1144
+msgid ""
+"This credit invoice is generated automatically to pay for an invoice in auto "
+"pay mode"
+msgstr ""
+"این صورت‌حساب کیف پول به صورت خودکار برای پرداخت یک صورت‌حساب مصرفی (پرداخت "
+"خودکار) صادر شده است"
+
+#: cgg/apps/finance/versions/v1/services/invoice.py:1180
+msgid "Can not delete this invoice with this status code"
+msgstr "به دلیل وضعیت صورت‌حساب مصرفی، امکان حذف آن وجود ندارد"
+
+#: cgg/apps/finance/versions/v1/services/migrations.py:75
+#: cgg/apps/finance/versions/v1/services/migrations.py:154
+msgid "This credit invoice is migrated automatically from old payments system"
+msgstr ""
+"این صورت‌حساب کیف پول به صورت خودکار و در جریان مهاجرت از سیستم پیشین صادر "
+"شده است"
+
+#: cgg/apps/finance/versions/v1/services/mis.py:116
+msgid "Malformed REST response from MIS"
+msgstr "پاسخ دریافتی از سرویس MIS معتبر نیست"
+
+#: cgg/apps/finance/versions/v1/services/mis.py:124
+msgid "Something went wrong in MIS service"
+msgstr "خطایی در ارتباط با MIS رخ داده است"
+
+#: cgg/apps/finance/versions/v1/services/operator.py:116
+msgid "Something went wrong in creating operator profile"
+msgstr "خطایی در ایجاد پروفایل اپراتور رخ داده است"
+
+#: cgg/apps/finance/versions/v1/services/operator.py:208
+msgid "Something went wrong in updating operator profile"
+msgstr "خطایی در بروزرسانی پروفایل اپراتور رخ داده است"
+
+#: cgg/apps/finance/versions/v1/services/package.py:227
+msgid "Can not remove the default package"
+msgstr "امکان حذف بسته پیش فرض وجود ندارد"
+
+#: cgg/apps/finance/versions/v1/services/package_invoice.py:352
+msgid ""
+"This package invoice is generated automatically due to auto renewal setting "
+"of previous invoice"
+msgstr ""
+"این صورت‌حساب بسته مکالمه به صورت خودکار به دلیل فعال بودن تمدید خودکار بسته، "
+"صادر شده است"
+
+#: cgg/apps/finance/versions/v1/services/package_invoice.py:364
+msgid ""
+"This credit invoice is generated automatically due to auto renewal setting "
+"of a package invoice"
+msgstr ""
+"این صورت‌حساب کیف پول به صورت خودکار برای پرداخت یک صورت‌حساب بسته مکالمه با "
+"تمدید خودکار، صادر شده است"
+
+#: cgg/apps/finance/versions/v1/services/payment.py:271
+msgid "Can not pay this credit invoice due to its status_code"
+msgstr "به دلیل وضعیت صورت‌حساب کیف پول، امکان پرداخت آن وجود ندارد"
+
+#: cgg/apps/finance/versions/v1/services/payment.py:275
+msgid "Can not update offline payments directly"
+msgstr "امکان تغییر وضعیت مستقیم پرداخت های آفلاین وجود ندارد"
+
+#: cgg/apps/finance/versions/v1/services/payment.py:357
+msgid "Can not approve/reject the payment this due to gateway"
+msgstr "امکان تغییر وضعیت پرداخت تنها برای درگاه پرداخت آفلاین وجود دارد"
+
+#: cgg/apps/finance/versions/v1/services/payment.py:362
+msgid ""
+"Can not approve/reject the payment of this credit invoice due to credits "
+"status"
+msgstr ""
+"به دلیل وضعیت کنونی صورت‌حساب کیف پول، امکان تغییر وضعیت پرداخت وجود ندارد"
+
+#: cgg/apps/finance/versions/v1/services/profit.py:289
+msgid "Something went wrong in creating profit"
+msgstr "خطایی در ایجاد درآمدها رخ داده است"
+
+#: cgg/apps/finance/versions/v1/services/subscription.py:177
+msgid "Used balance can not be greater than base balance"
+msgstr "میزان مصرف نمی تواند بیشتر از اعتبار پایه باشد"
+
+#: cgg/apps/finance/versions/v1/services/subscription.py:512
+msgid "Can not convert a non prepaid subscription to postpaid"
+msgstr "امکان تبدیل مشترکین غیر اعتباری به دائمی وجود ندارد"
+
+#: cgg/apps/finance/versions/v1/services/subscription.py:580
+msgid ""
+"This credit invoice is generated automatically in the procedure of "
+"converting from prepaid to postpaid"
+msgstr ""
+"این صورت‌حساب کیف پول به صورت خودکار در جریان تبدیل مشترک اعتباری به دائمی "
+"صادر شده است"
+
+#: cgg/apps/finance/versions/v1/services/subscription.py:688
+msgid "Subscription is now disabled"
+msgstr "اشتراک با موفقیت غیرفعال شد"
+
+#: cgg/apps/finance/versions/v1/services/subscription.py:694
+msgid "Subscription is now enabled"
+msgstr "اشتراک با موفقیت فعال شد"
+
+#: cgg/apps/finance/versions/v1/services/subscription.py:766
+msgid "No customer code is found in url or body. you must provide one"
+msgstr "کد کاربر ارسال نشده است. بدنه درخواست یا آدرس باید حاوی کد کاربر باشد"
+
+#: cgg/apps/finance/versions/v1/services/subscription.py:811
+msgid "This number is blacklisted and can not be used"
+msgstr "این شماره در لیست سیاه قرار دارد و قابل استفاده نیست"
+
+#: cgg/apps/finance/versions/v1/services/subscription.py:857
+msgid ""
+"This credit invoice is generated automatically for increasing customer's "
+"credit at subscription's creation"
+msgstr ""
+"این صورت‌حساب کیف پول به صورت خودکار برای افزایش اعتبار کیف پول همزمان با "
+"ایجاد اشتراک صادر شده است"
+
+#: cgg/apps/finance/versions/v1/services/subscription.py:1107
+msgid "Can not deallocate subscription due to Service problems"
+msgstr "خطایی در غیرفعال سازی اشتراک رخ داده است"
+
+#: cgg/apps/finance/versions/v1/services/subscription.py:1164
+msgid "Can not delete subscription due to Service problems"
+msgstr "خطایی در حذف اشتراک رخ داده است"
+
+#: cgg/apps/finance/versions/v1/services/subscription.py:1303
+msgid ""
+"This invoice is created automatically for initialization of a prepaid account"
+msgstr ""
+"این صورت‌حساب به صورت خودکار برای ساخت اولیه حساب کاربر اعتباری ایجاد شده است"
+
+#: cgg/apps/finance/versions/v1/services/subscription.py:1332
+msgid ""
+"This base balance invoice is generated automatically for increasing "
+"subscription's base balance without payment"
+msgstr ""
+"این صورت‌حساب سقف مصرف به صورت خودکار برای افزایش سقف مصرف (بدون پرداخت)، "
+"صادر شده است"
+
+#: cgg/apps/finance/versions/v1/services/subscription.py:1353
+msgid ""
+"This credit invoice is generated automatically for increasing subscription's "
+"base balance without payment"
+msgstr ""
+"این صورت‌حساب کیف پول به صورت خودکار برای افزایش سقف مصرف (بدون پرداخت)، صادر "
+"شده است"
+
+#: cgg/apps/finance/versions/v1/services/trunk.py:54
+msgid "JSON decode error"
+msgstr "خطا در رمزگشایی بدنه JSON رخ داده است"
+
+#: cgg/core/api_exceptions.py:54
+msgid "Incorrect authentication credentials."
+msgstr "اطلاعات احراز هویت درست نیست"
+
+#: cgg/core/api_exceptions.py:63
+msgid "Authentication credentials were not provided."
+msgstr "اطلاعات احراز هویت ارسال نشده است"
+
+#: cgg/core/api_exceptions.py:72
+msgid "You do not have permission to perform this action."
+msgstr "شما اجازه و دسترسی انجام این عملیات را ندارد"
+
+#: cgg/core/api_exceptions.py:81
+msgid "The requested resource could not be found."
+msgstr "مسیر مورد نظر پیدا نشد"
+
+#: cgg/core/api_exceptions.py:90
+msgid "The request could not be completed."
+msgstr "امکان تکمیل درخواست وجود ندارد"
+
+#: cgg/core/api_exceptions.py:99
+msgid "The requested resource is no longer available."
+msgstr "مسیر مورد درخواست آماده نیست"
+
+#: cgg/core/api_exceptions.py:108
+msgid "Request timeout"
+msgstr "زمان درخواست منقضی شده است"
+
+#: cgg/core/error_messages.py:6
+msgid "Can not be greater than the current base balance"
+msgstr "مبلغ نمی تواند بیشتر از سقف مصرف فعلی باشد"
+
+#: cgg/core/error_messages.py:9
+msgid "Can not be greater than the current balance"
+msgstr "مبلغ نمی تواند بیشتر از اعتبار جاری باشد"
+
+#: cgg/core/error_messages.py:11
+msgid "No data returned to export"
+msgstr "داده ای برای دریافت وجود ندارد"
+
+#: cgg/core/error_messages.py:12
+msgid "Current status code is th same with selected one"
+msgstr "وضعیت انتخاب شده مشابه وضعیت فعلی است"
+
+#: cgg/core/error_messages.py:13
+msgid "Can not update profit from this status code"
+msgstr "به دلیل وضعیت سود، امکان بروزرسانی آن وجود ندارد"
+
+#: cgg/core/error_messages.py:14
+msgid "Invalid status code for profit"
+msgstr "وضعیت سود نامعتبر است"
+
+#: cgg/core/error_messages.py:16
+msgid ""
+"This item is payed with the existing credit, so it does not have any payments"
+msgstr ""
+"این صورت‌حساب با استفاده از موجودی کیف پول پرداخت شده است، بنابراین تراکنشی "
+"برای آن وجود ندارد"
+
+#: cgg/core/error_messages.py:20
+msgid "This item is not payed, so it does not have any payments"
+msgstr "این صورت‌حساب پرداخت نشده است بنابراین تراکنشی برای آن وجود ندارد"
+
+#: cgg/core/error_messages.py:23
+msgid "A package is already active, can not create a new one"
+msgstr ""
+"در حال حاضر یک بسته مکالمه فعال است و امکان فعال سازی بسته جدید وجود ندارد"
+
+#: cgg/core/error_messages.py:25
+msgid "Package does not exists"
+msgstr "بسته مکالمه مورد نظر پیدا نشد"
+
+#: cgg/core/error_messages.py:26
+msgid "Package invoice does not exists"
+msgstr "صورت‌حساب بسته مکالمه مورد نظر پیدا نشد"
+
+#: cgg/core/error_messages.py:27 cgg/core/error_messages.py:77
+msgid "Must be string"
+msgstr "باید رشته باشد"
+
+#: cgg/core/error_messages.py:28
+msgid "Decreasing credit must have a reason"
+msgstr ""
+"کاهش اعتبار کیف پول باید برای پرداخت یک صورت‌حساب مصرفی، سقف مصرف یا خرید "
+"بسته مکالمه باشد"
+
+#: cgg/core/error_messages.py:29
+msgid "Subscription does not have enough credit"
+msgstr "موجودی کیف پول کافی نیست"
+
+#: cgg/core/error_messages.py:30
+msgid "Trying to update an invoice that does not exists"
+msgstr "صورت‌حساب مورد نظر برای بروزرسانی وجود ندارد"
+
+#: cgg/core/error_messages.py:32
+msgid "Trying to update a base balance invoice that does not exists"
+msgstr "صورت‌حساب سقف مصرف مورد نظر برای بروزرسانی وجود ندارد"
+
+#: cgg/core/error_messages.py:35
+msgid "Trying to update a package invoice that does not exists"
+msgstr "صورت‌حساب بسته مکالمه مورد نظر برای بروزرسانی وجود ندارد"
+
+#: cgg/core/error_messages.py:37
+msgid "Operator does not exists"
+msgstr "اپراتور پیدا نشد"
+
+#: cgg/core/error_messages.py:38
+msgid "Customer does not exists"
+msgstr "کاربر پیدا نشد"
+
+#: cgg/core/error_messages.py:39
+msgid "Customer does not have any subscription"
+msgstr "اشتراکی برای کاربر پیدا نشد"
+
+#: cgg/core/error_messages.py:40
+msgid "Invalid customer code"
+msgstr "کد کاربر نامعتبر"
+
+#: cgg/core/error_messages.py:41
+msgid "Subscription does not exists"
+msgstr "اشتراک پیدا نشد"
+
+#: cgg/core/error_messages.py:42
+msgid "Subscription does not belongs to this customer"
+msgstr "اشتراک متعلق به این کاربر نبوده یا غیرفعال است"
+
+#: cgg/core/error_messages.py:43
+msgid "This subscription is unlimited"
+msgstr "این اشتراک نامحدود است"
+
+#: cgg/core/error_messages.py:44
+msgid "This subscription is prepaid"
+msgstr "این اشتراک اعتباری است"
+
+#: cgg/core/error_messages.py:48 cgg/core/error_messages.py:50
+msgid "Invalid subscription's number"
+msgstr "کد اشتراک نامعتبر"
+
+#: cgg/core/error_messages.py:49
+msgid "Invalid subscription's type"
+msgstr "نوع اشتراک نامعتبر"
+
+#: cgg/core/error_messages.py:51
+msgid "Base balance invoice does not exists"
+msgstr "صورت‌حساب سقف مصرف پیدا نشد"
+
+#: cgg/core/error_messages.py:52
+msgid "with this id does not exist"
+msgstr "صورت‌حساب مورد نظر پیدا نشد"
+
+#: cgg/core/error_messages.py:54
+msgid ""
+"A pay request for this invoice is still waiting for it's response, try again "
+"in later"
+msgstr ""
+"درخواست پرداخت آنلاینی برای این صورت‌حساب در حال پردازش است. لطفا دقایقی دیگر "
+"مجددا تلاش کنید"
+
+#: cgg/core/error_messages.py:58
+msgid ""
+"A pay request for the previous invoice is still waiting for it's response, "
+"try again in later"
+msgstr ""
+"درخواست پرداخت آنلاینی برای صورت‌حساب پیشین در حال پردازش است. لطفا دقایقی "
+"دیگر مجددا تلاش کنید"
+
+#: cgg/core/error_messages.py:61
+msgid "Credit invoice does not exists"
+msgstr "صورت‌حساب کیف پول مورد نظر پیدا نشد"
+
+#: cgg/core/error_messages.py:62
+msgid "Invoice does not exists"
+msgstr "صورت‌حساب مصرفی مورد نظر پیدا نشد"
+
+#: cgg/core/error_messages.py:63
+msgid "Payment does not exists"
+msgstr "تراکنش مورد نظر پیدا نشد"
+
+#: cgg/core/error_messages.py:64
+msgid "Branch does not exists"
+msgstr "شعبه مورد نظر پیدا نشد"
+
+#: cgg/core/error_messages.py:65
+msgid "Profit does not exists"
+msgstr "درآمد مورد نظر پیدا نشد"
+
+#: cgg/core/error_messages.py:66
+msgid "Invalid branch code"
+msgstr "کد شعبه نامعتبر"
+
+#: cgg/core/error_messages.py:67
+msgid "Invalid branch name"
+msgstr "نام شعبه نامعتبر"
+
+#: cgg/core/error_messages.py:68
+msgid "Invalid choices in order by query"
+msgstr "گزینه ها ارسال شده در درخواست مرتب سازی معتبر نیستند"
+
+#: cgg/core/error_messages.py:69
+msgid "Destination does not exists"
+msgstr "مقصد پیدا نشد"
+
+#: cgg/core/error_messages.py:70
+msgid "Invalid destination prefix"
+msgstr "پیش شماره نامعتبر"
+
+#: cgg/core/error_messages.py:71
+msgid "Invalid destination name"
+msgstr "نام مقصد نامعتبر"
+
+#: cgg/core/error_messages.py:72
+msgid "Invalid destination country code"
+msgstr "کد کشور مقصد نامعتبر"
+
+#: cgg/core/error_messages.py:73
+msgid "Invalid destination code"
+msgstr "کد مقصد نامعتبر"
+
+#: cgg/core/error_messages.py:74
+msgid "Datetime parsing error"
+msgstr "خطا در تبدیل تاریخ"
+
+#: cgg/core/error_messages.py:75
+msgid "Total cost must be a number"
+msgstr "مبلغ وارد شده عددی نیست"
+
+#: cgg/core/error_messages.py:76
+msgid "Valid choices are"
+msgstr "انتخاب های مجاز عبارت اند از"
+
+#: cgg/core/error_messages.py:78
+msgid "Must be boolean"
+msgstr "باید مقداری صحیح باشد"
+
+#: cgg/core/error_messages.py:79
+msgid "Body can not be empty"
+msgstr "بدنه درخواست نمی تواند خالی باشد"
+
+#: cgg/core/error_messages.py:81
+msgid "Invalid operator code"
+msgstr "کد اپراتور نامعتبر"
+
+#: cgg/core/error_messages.py:82
+msgid "Invalid package name"
+msgstr "نام بسته مکالمه نامعتبر"
+
+#: cgg/core/error_messages.py:83
+msgid "Invalid package value"
+msgstr "مقدار نامعتبر بسته مکالمه"
+
+#: cgg/core/error_messages.py:84
+msgid "Invalid package price"
+msgstr "هزینه نامعتبر بسته مکالمه"
+
+#: cgg/core/error_messages.py:85
+msgid "Invalid package due"
+msgstr "تاریخ انقضای نامعتبر بسته مکالمه"
+
+#: cgg/core/error_messages.py:86
+msgid "Invalid package is active"
+msgstr "فیلد فعال بودن بسته نامعتبر است"
+
+#: cgg/core/error_messages.py:87
+msgid "Invalid package is featured"
+msgstr "فیلد برجسته بودن بسته نامعتبر است"
+
+#: cgg/core/error_messages.py:88
+msgid "Invalid start date"
+msgstr "تاریخ شروع بسته نامعتبر است"
+
+#: cgg/core/error_messages.py:89
+msgid "Invalid end date"
+msgstr "تاریخ پایان بسته نامعتبر است"
+
+#: cgg/core/exception_handler.py:38
+msgid "Authorization token is not valid"
+msgstr "شناسه احراز هویت معتبر نیست یا ارسال نشده است"
+
+#: cgg/core/tools.py:63
+msgid "Credit invoice"
+msgstr "صورت‌حساب کیف پول"
+
+#: cgg/core/tools.py:80
+msgid "Yes"
+msgstr "بله"
+
+#: cgg/core/tools.py:81
+msgid "No"
+msgstr "خیر"
+
+#: cgg/core/tools.py:188
+msgid "JSON is not valid"
+msgstr "JSON ارسال شده معتبر نیست"
+
+#: cgg/core/tools.py:207
+msgid "Not a valid UUID"
+msgstr "uuid معتبر نیست"
+
+#: cgg/core/tools.py:220
+msgid "Conversion failed"
+msgstr "تبدیل با خطا مواجه شد"
+
+#: cgg/core/tools.py:247
+msgid ""
+"Malformed number, Use numbers with an optional plus sign at the beginning"
+msgstr "شماره صحیح نیست. از اعداد (با یک مثبت اختیاری در ابتدا) استفاده کنید"
+
+#: cgg/urls.py:29
+msgid "CGG Admin Panel"
+msgstr "پنل مدیریت مالی نکفسون"
+
+#: cgg/apps/finance/admin.py:652
+msgid "Verify and repair subscription's balance"
+msgstr "اصلاح اعتبار جاری"
